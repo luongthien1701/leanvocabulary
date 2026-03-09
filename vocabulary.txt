@@ -1,0 +1,92 @@
+diet(n):chế độ ăn uống
+court(n):tòa án
+ill(v):đau ốm
+pant(n):quần dài
+envelope(n):phong bì
+habitat(n):môi trường sống
+prepare(v):chuẩn bị
+sneeze(v):hắt hơi
+this/that:số ít ở gần/xa
+these/those:số nhiều ở gần/xa
+cure(n):phương thuốc,cách chữa trị
+held(v):tổ chức
+faced(v):đối mặt
+clainmed(v):tuyên bố
+made(v):đã làm
+barely(adv):hầu như không
+shortly(adv):không lâu
+absolutely(adv):tuyệt đối
+exclusively(adv):độc quyền
+decision(n):giải quyết
+estimation(n):đánh giá
+along:cùng
+during:trong thời gian
+over:hơn
+commence(v):bắt đầu,mở đầu
+brief(adj):ngắn gọn
+former(adj):trước đây
+steep(adj):quá mức
+statement(n):sự bày tỏ,sự trình bày
+escalator(n):thang cuốn
+wrap(v):đóng gói
+merchandise(n):hàng hóa
+briefcase(n):cặp đựng tài liệu
+vendor(n):người bán hàng
+reach(v):với tới
+arrange(v):sắp xếp
+vase(n):cái bình,cái lọ
+attach(v):đính kèm
+bulletin(n):thông báo
+against(pre):chống lại,ngược lại
+railing(n):lan can
+bench(n):ghế dài
+hang(v):treo,mắc
+above(prep):phía trên
+doorway(n):lối đi ra cửa
+audience(n):khán giả
+across(preo):ngang qua
+binocular(n):ống nhòm
+therapy(n):liệu pháp trị liệu
+trophy(n):cúp
+initiative(n):sáng kiến
+concise(adj):ngắn gọn,xúc tích
+suspend(v): tạm hoãn,đình chỉ
+intersection(n):sự giao lộ
+separate(v):riêng rẽ
+high-rise(n):nhà cao tầng
+erect(v):dựng lên
+PARTIALLY(adv):khong hoàn chỉnh
+pile(n):đống
+fasten(v):buộc
+vertical(a):thẳng đứng
+pattern(n):mẫu,hoa văn
+pipe(n):óng
+attend(v):tham dự
+rest(v):nghỉ ngơi
+barn(n):chuồng
+fence(n):hàng rào
+promotion(n):thăng tiến
+effort(n):nổ lực
+furniture(n):đồ đạc
+pot(n):cái chậu
+approach(n):sự tiếp cận
+lift(v):nâng lên
+pour(v):rót
+field(n):cánh đồng
+repair(v):sửa chữa
+cement(n):xi măng
+gather(v):tụ họp
+fountain(n):đài phun nước
+stroll(v):đi tản bộ
+laundry(n):giặt giữ
+dry(v):khô
+bend(v):cúi xuống
+shalve(n):kệ
+beverage(n):thức uống
+sentence(n):câu,mệnh đề
+bury(v):chôn vùi
+EXTERIOR:bên ngoài
+auditorium(n):giảng đường
+DISTRIBUTE(v):phân phát
+thick(adj):dày
+conference(n):hội thảo

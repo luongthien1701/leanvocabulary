@@ -1,0 +1,465 @@
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<title>Smart Vocabulary Trainer</title>
+
+<style>
+
+*{box-sizing:border-box}
+
+body{
+margin:0;
+min-height:100vh;
+display:flex;
+justify-content:center;
+align-items:center;
+font-family:"Segoe UI";
+background:linear-gradient(135deg,#74ebd5,#9face6);
+}
+
+.app{
+background:white;
+width:560px;
+padding:28px;
+border-radius:18px;
+box-shadow:0 20px 40px rgba(0,0,0,0.15);
+}
+
+h1{text-align:center;margin-bottom:10px}
+
+.hidden{display:none}
+
+textarea{
+width:100%;
+border-radius:10px;
+padding:12px;
+border:1px solid #ddd;
+}
+
+button{
+width:100%;
+margin-top:10px;
+padding:12px;
+border:none;
+border-radius:10px;
+font-size:16px;
+font-weight:bold;
+cursor:pointer;
+background:linear-gradient(135deg,#6c8cff,#8fa8ff);
+color:white;
+}
+
+.card{
+background:#f7f9fc;
+border-radius:14px;
+padding:24px;
+text-align:center;
+box-shadow:inset 0 0 0 2px #e6ebf3;
+}
+
+.word{
+font-size:28px;
+font-weight:bold;
+}
+
+.speaker{
+cursor:pointer;
+font-size:22px;
+margin-left:10px;
+}
+
+.mode{font-size:13px;color:#777;margin-bottom:8px}
+
+input{
+width:100%;
+padding:12px;
+border-radius:10px;
+border:1px solid #ddd;
+margin-top:10px;
+font-size:16px;
+}
+
+.correct{color:#2ecc71}
+.wrong{color:#e74c3c}
+
+.mask{font-family:monospace;letter-spacing:2px}
+
+.result{
+margin-top:12px;
+font-weight:bold;
+}
+
+.progress{
+height:8px;
+background:#eee;
+border-radius:10px;
+margin-top:10px;
+overflow:hidden;
+}
+
+.bar{
+height:100%;
+width:0%;
+background:#6c8cff;
+}
+
+.stats{
+font-size:13px;
+margin-top:8px;
+color:#666;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="app">
+
+<h1>📘 Smart Vocabulary Trainer</h1>
+
+<div id="inputStep">
+
+<p>Format mỗi dòng: <b>word(type):nghĩa</b></p>
+
+<textarea id="bulkInput" rows="10"></textarea>
+
+<button onclick="startLearning()">🚀 Bắt đầu học</button>
+
+</div>
+
+
+<div id="learnStep" class="hidden">
+
+<div class="card">
+
+<div class="mode" id="mode"></div>
+
+<div class="word">
+<span id="question"></span>
+<span class="speaker" onclick="speak()">🔊</span>
+</div>
+
+<input id="answer" placeholder="Nhập câu trả lời">
+
+<button onclick="checkAnswer()">Nộp</button>
+
+<div class="result mask" id="result"></div>
+
+<div class="progress">
+<div class="bar" id="bar"></div>
+</div>
+
+<div class="stats" id="stats"></div>
+
+<div style="font-size:12px;color:#777;margin-top:10px">
+Enter = nộp · Tab = nghe · Ctrl = bỏ qua
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<script>
+
+let words=[]
+let queue=[]
+let current=null
+let mode=null
+
+let correctCount=0
+let wrongCount=0
+let total=0
+
+
+async function loadVocabulary(){
+
+try{
+
+const res=await fetch("vocabulary.txt")
+
+const text=await res.text()
+
+document.getElementById("bulkInput").value=text
+
+}catch{
+
+console.log("Không load được vocabulary.txt")
+
+}
+
+}
+
+window.onload=loadVocabulary
+
+
+function startLearning(){
+
+const lines=document.getElementById("bulkInput").value
+.split("\n")
+.map(x=>x.trim())
+.filter(x=>x.includes(":"))
+
+if(lines.length===0){
+
+alert("Chưa có từ vựng")
+
+return
+
+}
+
+words=lines.map(l=>{
+let p=l.split(":")
+return{en:p[0],vi:p.slice(1).join(":")}
+})
+
+shuffle(words)
+
+queue=[...words]
+
+total=words.length
+
+document.getElementById("inputStep").classList.add("hidden")
+document.getElementById("learnStep").classList.remove("hidden")
+
+nextWord()
+
+}
+
+
+function nextWord(){
+
+if(queue.length===0){
+
+alert("🎉 Bạn đã học xong!")
+
+location.reload()
+
+return
+
+}
+
+current=queue.shift()
+
+mode=Math.random()<0.5?"EN_VI":"VI_EN"
+
+document.getElementById("answer").value=""
+document.getElementById("result").innerText=""
+
+if(mode==="EN_VI"){
+
+document.getElementById("mode").innerText="👉 Nhập nghĩa tiếng Việt"
+
+document.getElementById("question").innerText=current.en
+
+}else{
+
+document.getElementById("mode").innerText="👉 Nhập từ tiếng Anh"
+
+document.getElementById("question").innerText=current.vi
+
+}
+
+updateStats()
+
+
+}
+
+
+function checkAnswer(){
+
+const user=document.getElementById("answer").value.trim()
+
+const result=document.getElementById("result")
+
+if(mode==="EN_VI"){
+
+if(user.toLowerCase()===current.vi.toLowerCase()){
+
+result.innerText="✔ Chính xác"
+
+result.className="result correct"
+
+correctCount++
+
+setTimeout(nextWord,800)
+
+}else{
+
+result.innerText="✘ "+current.vi
+
+result.className="result wrong"
+
+wrongCount++
+
+repeatWord()
+
+}
+
+}
+
+else{
+
+let correct=current.en
+
+if(user.toLowerCase()===correct.toLowerCase()){
+
+result.innerText="✔ "+correct
+
+result.className="result correct"
+
+correctCount++
+
+setTimeout(nextWord,800)
+
+}else{
+
+result.innerText=maskWord(user,correct)
+
+result.className="result wrong mask"
+
+wrongCount++
+
+repeatWord()
+
+}
+
+}
+
+updateStats()
+
+}
+
+
+function repeatWord(){
+
+let pos=Math.min(3,queue.length)
+
+queue.splice(pos,0,current)
+
+}
+
+
+function maskWord(user,correct){
+
+let out=""
+let ok=true
+
+for(let i=0;i<correct.length;i++){
+
+if(ok && user[i] && user[i].toLowerCase()===correct[i].toLowerCase()){
+
+out+=correct[i]
+
+}else{
+
+ok=false
+
+out+="*"
+
+}
+
+}
+
+return out
+
+}
+
+
+function updateStats(){
+
+let done=correctCount+wrongCount
+
+let percent=Math.floor(done/total*100)
+
+document.getElementById("bar").style.width=percent+"%"
+
+document.getElementById("stats").innerText=
+
+"✔ "+correctCount+
+" | ✘ "+wrongCount+
+" | Tiến độ "+percent+"%"
+
+}
+
+
+function speak(){
+
+if(!current)return
+
+let word=current.en.replace(/\(.*?\)/g,"").trim()
+
+let u=new SpeechSynthesisUtterance(word)
+
+u.lang="en-US"
+
+speechSynthesis.cancel()
+
+speechSynthesis.speak(u)
+
+}
+
+
+function skipWord(){
+
+queue.push(current)
+
+nextWord()
+
+}
+
+
+function shuffle(arr) {
+
+for (let i = arr.length - 1; i > 0; i--) {
+
+let j = Math.floor(Math.random() * (i + 1));
+
+let temp = arr[i];
+arr[i] = arr[j];
+arr[j] = temp;
+
+}
+
+}
+
+
+document.addEventListener("keydown",e=>{
+
+if(document.getElementById("learnStep").classList.contains("hidden"))return
+
+if(e.key==="Enter"){
+
+e.preventDefault()
+
+checkAnswer()
+
+}
+
+if(e.key==="Tab"){
+
+e.preventDefault()
+
+speak()
+
+}
+
+if(e.key==="Control"){
+
+e.preventDefault()
+
+skipWord()
+
+}
+
+})
+
+</script>
+
+</body>
+</html>
+
