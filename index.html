@@ -1,4 +1,4 @@
-
+```html
 <!DOCTYPE html>
 <html lang="vi">
 <head>
@@ -155,7 +155,7 @@ color:#666;
 <div class="stats" id="stats"></div>
 
 <div style="font-size:12px;color:#777;margin-top:10px">
-Enter = nộp · Tab = nghe · Ctrl = bỏ qua
+Enter = nộp · Tab = nghe · Ctrl = bỏ qua · Shift = gợi ý
 </div>
 
 </div>
@@ -175,13 +175,14 @@ let correctCount=0
 let wrongCount=0
 let total=0
 
+let hintLevel=0
+
 
 async function loadVocabulary(){
 
 try{
 
 const res=await fetch("vocabulary.txt")
-
 const text=await res.text()
 
 document.getElementById("bulkInput").value=text
@@ -202,12 +203,11 @@ function startLearning(){
 const lines=document.getElementById("bulkInput").value
 .split("\n")
 .map(x=>x.trim())
-.filter(x=>x.includes(":"))
+.filter(x=>x.includes(":") && x.length>3)
 
 if(lines.length===0){
 
 alert("Chưa có từ vựng")
-
 return
 
 }
@@ -245,6 +245,8 @@ return
 
 current=queue.shift()
 
+hintLevel=0
+
 mode=Math.random()<0.5?"EN_VI":"VI_EN"
 
 document.getElementById("answer").value=""
@@ -266,6 +268,7 @@ document.getElementById("question").innerText=current.vi
 
 updateStats()
 
+speak()
 
 }
 
@@ -281,7 +284,6 @@ if(mode==="EN_VI"){
 if(user.toLowerCase()===current.vi.toLowerCase()){
 
 result.innerText="✔ Chính xác"
-
 result.className="result correct"
 
 correctCount++
@@ -291,7 +293,6 @@ setTimeout(nextWord,800)
 }else{
 
 result.innerText="✘ "+current.vi
-
 result.className="result wrong"
 
 wrongCount++
@@ -309,7 +310,6 @@ let correct=current.en
 if(user.toLowerCase()===correct.toLowerCase()){
 
 result.innerText="✔ "+correct
-
 result.className="result correct"
 
 correctCount++
@@ -319,7 +319,6 @@ setTimeout(nextWord,800)
 }else{
 
 result.innerText=maskWord(user,correct)
-
 result.className="result wrong mask"
 
 wrongCount++
@@ -344,6 +343,30 @@ queue.splice(pos,0,current)
 }
 
 
+function showHint(){
+
+if(!current) return
+
+hintLevel++
+
+let word=current.en.replace(/\(.*?\)/g,"").trim()
+
+let reveal=0
+
+if(hintLevel===1) reveal=Math.ceil(word.length*0.3)
+else if(hintLevel===2) reveal=Math.ceil(word.length*0.6)
+else reveal=word.length
+
+let hint=word.substring(0,reveal)+"*".repeat(word.length-reveal)
+
+document.getElementById("result").innerText="💡 "+hint
+document.getElementById("result").className="result mask"
+
+queue.splice(2,0,current)
+
+}
+
+
 function maskWord(user,correct){
 
 let out=""
@@ -358,7 +381,6 @@ out+=correct[i]
 }else{
 
 ok=false
-
 out+="*"
 
 }
@@ -373,13 +395,11 @@ return out
 function updateStats(){
 
 let done=correctCount+wrongCount
-
 let percent=Math.floor(done/total*100)
 
 document.getElementById("bar").style.width=percent+"%"
 
 document.getElementById("stats").innerText=
-
 "✔ "+correctCount+
 " | ✘ "+wrongCount+
 " | Tiến độ "+percent+"%"
@@ -413,15 +433,15 @@ nextWord()
 }
 
 
-function shuffle(arr) {
+function shuffle(arr){
 
-for (let i = arr.length - 1; i > 0; i--) {
+for(let i=arr.length-1;i>0;i--){
 
-let j = Math.floor(Math.random() * (i + 1));
+let j=Math.floor(Math.random()*(i+1))
 
-let temp = arr[i];
-arr[i] = arr[j];
-arr[j] = temp;
+let temp=arr[i]
+arr[i]=arr[j]
+arr[j]=temp
 
 }
 
@@ -430,12 +450,11 @@ arr[j] = temp;
 
 document.addEventListener("keydown",e=>{
 
-if(document.getElementById("learnStep").classList.contains("hidden"))return
+if(document.getElementById("learnStep").classList.contains("hidden")) return
 
 if(e.key==="Enter"){
 
 e.preventDefault()
-
 checkAnswer()
 
 }
@@ -443,7 +462,6 @@ checkAnswer()
 if(e.key==="Tab"){
 
 e.preventDefault()
-
 speak()
 
 }
@@ -451,8 +469,14 @@ speak()
 if(e.key==="Control"){
 
 e.preventDefault()
-
 skipWord()
+
+}
+
+if(e.key==="Shift"){
+
+e.preventDefault()
+showHint()
 
 }
 
@@ -462,4 +486,4 @@ skipWord()
 
 </body>
 </html>
-
+```
