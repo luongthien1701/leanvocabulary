@@ -90,3 +90,11 @@ auditorium(n):giảng đường
 DISTRIBUTE(v):phân phát
 thick(adj):dày
 conference(n):hội thảo
+binder(n):bìa tài liệu
+grocery(n):hàng tạp hóa
+performance(n):buổi biểu diễn
+crowd(n):đám đông
+cabinet(n):tủ
+suitcase(n):va li
+luggage(n):hành lý
+tunnel(n):hầm
