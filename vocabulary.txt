@@ -172,3 +172,5 @@ legal(adj):hợp pháp
 sidewalk(n):vỉa hè
 supervisor(n):người giám sát
 proposal(n):đề xuất
+in person:trực tiếp
+innovate(v):đổi mới
