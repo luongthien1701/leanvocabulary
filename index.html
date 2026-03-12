@@ -267,7 +267,6 @@ document.getElementById("question").innerText=current.vi
 
 updateStats()
 
-
 }
 
 
@@ -341,9 +340,24 @@ queue.splice(pos,0,current)
 }
 
 
+function markWrong(priority=2){
+
+wrongCount++
+
+updateStats()
+
+let pos=Math.min(priority,queue.length)
+
+queue.splice(pos,0,current)
+
+}
+
+
 function showHint(){
 
 if(!current) return
+
+markWrong(2)
 
 hintLevel++
 
@@ -359,8 +373,6 @@ let hint=word.substring(0,reveal)+"*".repeat(word.length-reveal)
 
 document.getElementById("result").innerText="💡 "+hint
 document.getElementById("result").className="result mask"
-
-queue.splice(2,0,current)
 
 }
 
@@ -409,6 +421,8 @@ function speak(){
 
 if(!current)return
 
+markWrong(2)
+
 let word=current.en.replace(/\(.*?\)/g,"").trim()
 
 let u=new SpeechSynthesisUtterance(word)
@@ -424,7 +438,7 @@ speechSynthesis.speak(u)
 
 function skipWord(){
 
-queue.push(current)
+markWrong(1)
 
 nextWord()
 
@@ -471,7 +485,7 @@ skipWord()
 
 }
 
-if(e.key==="Shift"){
+if(e.key==="Alt"){
 
 e.preventDefault()
 showHint()

@@ -98,3 +98,77 @@ cabinet(n):tủ
 suitcase(n):va li
 luggage(n):hành lý
 tunnel(n):hầm
+renovate(v):tân trang
+beside(prep):bên cạnh
+track(n):đường ray
+case(n):hộp,vỏ bọc
+counter(n):quầy
+warehouse(n):nhà kho
+entrance(n):cổng vào
+platform(n):nền tảng
+material(n):vật liệu
+forklift truck(n):xe nâng
+spread(v):trải ra
+dock(n):vũng tàu đậu
+sweep(v):quét
+broom(n):cái chổi
+exchange(v):đổi
+riverbank(n):bở sông
+presentation(n):sự trình bày
+hiker(n):người đi bộ đường dài
+hill(n):ngọn đồi
+tent(n):lều
+assemble(v):lắp ráp
+towel(n):khăn	
+stadium(n):sân vận động	
+partition(n):vách ngăn
+grocery(n):hàng hóa
+microscope(n):kính hiển vi
+drawer(n):ngăn kéo
+sculpture(n):tác phẩm điêu khắc
+overhead(n):trên đầu
+advertisement(n):quảng cáo
+archway(n):mái vòm
+bouquet(n):bó hoa
+statue(n):tượng
+monument(n):đài tưởng niệm
+wipe(v):lau,chùi
+shore(n):bờ biển
+lawn(n):bãi cỏ
+pedestrian(n):khách đi bộ
+pavement(n):vỉa hè
+individual(n):cá nhân
+surround(v):bao quanh
+laboratory(n):phòng thí nghiệm
+bush(n):khóm cây
+stove(n):cái bếp
+utensil(n):đồ dùng
+oven(n):lò nướng
+depart(v):khởi hành
+sew(v):may vá
+garment(n):áo quần
+balcony(n):ban công
+facility(n):cơ sở vật chất
+canopy(n):mái vòm
+sink(n):bồn rửa
+sailboat(n):thuyền buồm
+scarf(n):khăn quàng cổ
+stepladder(n):thang bậc
+courtyard(n):sân
+multiple(n):nhiều  
+decoration(n):vật trang trí
+scientific(adj):khoa học
+technician(n):kĩ thuật viên
+corner(n):góc nhà
+direct(adj):trực tiếp
+researcher(n):nhà nghiên cứu
+pitcher(n):bình có quai
+trimmer(n):máy cắt tỉa cây cỏ
+confidential(adj):bảo mật
+strategies(n):chiến lược
+consistent(adj):nhất quán 
+advisor(n):cố vấn
+legal(adj):hợp pháp 
+sidewalk(n):vỉa hè
+supervisor(n):người giám sát
+proposal(n):đề xuất
