@@ -1,0 +1,1132 @@
+[
+  {
+    "voca": "diet",
+    "type": "n",
+    "meaning": "chế độ ăn uống"
+  },
+  {
+    "voca": "court",
+    "type": "n",
+    "meaning": "tòa án"
+  },
+  {
+    "voca": "ill",
+    "type": "v",
+    "meaning": "đau ốm"
+  },
+  {
+    "voca": "pant",
+    "type": "n",
+    "meaning": "quần dài"
+  },
+  {
+    "voca": "envelope",
+    "type": "n",
+    "meaning": "phong bì"
+  },
+  {
+    "voca": "habitat",
+    "type": "n",
+    "meaning": "môi trường sống"
+  },
+  {
+    "voca": "prepare",
+    "type": "v",
+    "meaning": "chuẩn bị"
+  },
+  {
+    "voca": "sneeze",
+    "type": "v",
+    "meaning": "hắt hơi"
+  },
+  {
+    "voca": "this/that",
+    "type": "",
+    "meaning": "số ít ở gần/xa"
+  },
+  {
+    "voca": "these/those",
+    "type": "",
+    "meaning": "số nhiều ở gần/xa"
+  },
+  {
+    "voca": "cure",
+    "type": "n",
+    "meaning": "phương thuốc,cách chữa trị"
+  },
+  {
+    "voca": "held",
+    "type": "v",
+    "meaning": "tổ chức"
+  },
+  {
+    "voca": "faced",
+    "type": "v",
+    "meaning": "đối mặt"
+  },
+  {
+    "voca": "clainmed",
+    "type": "v",
+    "meaning": "tuyên bố"
+  },
+  {
+    "voca": "made",
+    "type": "v",
+    "meaning": "đã làm"
+  },
+  {
+    "voca": "barely",
+    "type": "adv",
+    "meaning": "hầu như không"
+  },
+  {
+    "voca": "shortly",
+    "type": "adv",
+    "meaning": "không lâu"
+  },
+  {
+    "voca": "absolutely",
+    "type": "adv",
+    "meaning": "tuyệt đối"
+  },
+  {
+    "voca": "exclusively",
+    "type": "adv",
+    "meaning": "độc quyền"
+  },
+  {
+    "voca": "decision",
+    "type": "n",
+    "meaning": "giải quyết"
+  },
+  {
+    "voca": "estimation",
+    "type": "n",
+    "meaning": "đánh giá"
+  },
+  {
+    "voca": "along",
+    "type": "",
+    "meaning": "cùng"
+  },
+  {
+    "voca": "during",
+    "type": "",
+    "meaning": "trong thời gian"
+  },
+  {
+    "voca": "over",
+    "type": "",
+    "meaning": "hơn"
+  },
+  {
+    "voca": "commence",
+    "type": "v",
+    "meaning": "bắt đầu,mở đầu"
+  },
+  {
+    "voca": "brief",
+    "type": "adj",
+    "meaning": "ngắn gọn"
+  },
+  {
+    "voca": "former",
+    "type": "adj",
+    "meaning": "trước đây"
+  },
+  {
+    "voca": "steep",
+    "type": "adj",
+    "meaning": "quá mức"
+  },
+  {
+    "voca": "statement",
+    "type": "n",
+    "meaning": "sự bày tỏ,sự trình bày"
+  },
+  {
+    "voca": "escalator",
+    "type": "n",
+    "meaning": "thang cuốn"
+  },
+  {
+    "voca": "wrap",
+    "type": "v",
+    "meaning": "đóng gói"
+  },
+  {
+    "voca": "merchandise",
+    "type": "n",
+    "meaning": "hàng hóa"
+  },
+  {
+    "voca": "briefcase",
+    "type": "n",
+    "meaning": "cặp đựng tài liệu"
+  },
+  {
+    "voca": "vendor",
+    "type": "n",
+    "meaning": "người bán hàng"
+  },
+  {
+    "voca": "reach",
+    "type": "v",
+    "meaning": "với tới"
+  },
+  {
+    "voca": "arrange",
+    "type": "v",
+    "meaning": "sắp xếp"
+  },
+  {
+    "voca": "vase",
+    "type": "n",
+    "meaning": "cái bình,cái lọ"
+  },
+  {
+    "voca": "attach",
+    "type": "v",
+    "meaning": "đính kèm"
+  },
+  {
+    "voca": "bulletin",
+    "type": "n",
+    "meaning": "thông báo"
+  },
+  {
+    "voca": "against",
+    "type": "pre",
+    "meaning": "chống lại,ngược lại"
+  },
+  {
+    "voca": "railing",
+    "type": "n",
+    "meaning": "lan can"
+  },
+  {
+    "voca": "bench",
+    "type": "n",
+    "meaning": "ghế dài"
+  },
+  {
+    "voca": "hang",
+    "type": "v",
+    "meaning": "treo,mắc"
+  },
+  {
+    "voca": "above",
+    "type": "prep",
+    "meaning": "phía trên"
+  },
+  {
+    "voca": "doorway",
+    "type": "n",
+    "meaning": "lối đi ra cửa"
+  },
+  {
+    "voca": "audience",
+    "type": "n",
+    "meaning": "khán giả"
+  },
+  {
+    "voca": "across",
+    "type": "preo",
+    "meaning": "ngang qua"
+  },
+  {
+    "voca": "binocular",
+    "type": "n",
+    "meaning": "ống nhòm"
+  },
+  {
+    "voca": "therapy",
+    "type": "n",
+    "meaning": "liệu pháp trị liệu"
+  },
+  {
+    "voca": "trophy",
+    "type": "n",
+    "meaning": "cúp"
+  },
+  {
+    "voca": "initiative",
+    "type": "n",
+    "meaning": "sáng kiến"
+  },
+  {
+    "voca": "concise",
+    "type": "adj",
+    "meaning": "ngắn gọn,xúc tích"
+  },
+  {
+    "voca": "suspend",
+    "type": "v",
+    "meaning": "tạm hoãn,đình chỉ"
+  },
+  {
+    "voca": "intersection",
+    "type": "n",
+    "meaning": "sự giao lộ"
+  },
+  {
+    "voca": "separate",
+    "type": "v",
+    "meaning": "riêng rẽ"
+  },
+  {
+    "voca": "high-rise",
+    "type": "n",
+    "meaning": "nhà cao tầng"
+  },
+  {
+    "voca": "erect",
+    "type": "v",
+    "meaning": "dựng lên"
+  },
+  {
+    "voca": "PARTIALLY",
+    "type": "adv",
+    "meaning": "khong hoàn chỉnh"
+  },
+  {
+    "voca": "pile",
+    "type": "n",
+    "meaning": "đống"
+  },
+  {
+    "voca": "fasten",
+    "type": "v",
+    "meaning": "buộc"
+  },
+  {
+    "voca": "vertical",
+    "type": "a",
+    "meaning": "thẳng đứng"
+  },
+  {
+    "voca": "pattern",
+    "type": "n",
+    "meaning": "mẫu,hoa văn"
+  },
+  {
+    "voca": "pipe",
+    "type": "n",
+    "meaning": "óng"
+  },
+  {
+    "voca": "attend",
+    "type": "v",
+    "meaning": "tham dự"
+  },
+  {
+    "voca": "rest",
+    "type": "v",
+    "meaning": "nghỉ ngơi"
+  },
+  {
+    "voca": "barn",
+    "type": "n",
+    "meaning": "chuồng"
+  },
+  {
+    "voca": "fence",
+    "type": "n",
+    "meaning": "hàng rào"
+  },
+  {
+    "voca": "promotion",
+    "type": "n",
+    "meaning": "thăng tiến"
+  },
+  {
+    "voca": "effort",
+    "type": "n",
+    "meaning": "nổ lực"
+  },
+  {
+    "voca": "furniture",
+    "type": "n",
+    "meaning": "đồ đạc"
+  },
+  {
+    "voca": "pot",
+    "type": "n",
+    "meaning": "cái chậu"
+  },
+  {
+    "voca": "approach",
+    "type": "n",
+    "meaning": "sự tiếp cận"
+  },
+  {
+    "voca": "lift",
+    "type": "v",
+    "meaning": "nâng lên"
+  },
+  {
+    "voca": "pour",
+    "type": "v",
+    "meaning": "rót"
+  },
+  {
+    "voca": "field",
+    "type": "n",
+    "meaning": "cánh đồng"
+  },
+  {
+    "voca": "repair",
+    "type": "v",
+    "meaning": "sửa chữa"
+  },
+  {
+    "voca": "cement",
+    "type": "n",
+    "meaning": "xi măng"
+  },
+  {
+    "voca": "gather",
+    "type": "v",
+    "meaning": "tụ họp"
+  },
+  {
+    "voca": "fountain",
+    "type": "n",
+    "meaning": "đài phun nước"
+  },
+  {
+    "voca": "stroll",
+    "type": "v",
+    "meaning": "đi tản bộ"
+  },
+  {
+    "voca": "laundry",
+    "type": "n",
+    "meaning": "giặt giữ"
+  },
+  {
+    "voca": "dry",
+    "type": "v",
+    "meaning": "khô"
+  },
+  {
+    "voca": "bend",
+    "type": "v",
+    "meaning": "cúi xuống"
+  },
+  {
+    "voca": "shalve",
+    "type": "n",
+    "meaning": "kệ"
+  },
+  {
+    "voca": "beverage",
+    "type": "n",
+    "meaning": "thức uống"
+  },
+  {
+    "voca": "sentence",
+    "type": "n",
+    "meaning": "câu,mệnh đề"
+  },
+  {
+    "voca": "bury",
+    "type": "v",
+    "meaning": "chôn vùi"
+  },
+  {
+    "voca": "EXTERIOR",
+    "type": "",
+    "meaning": "bên ngoài"
+  },
+  {
+    "voca": "auditorium",
+    "type": "n",
+    "meaning": "giảng đường"
+  },
+  {
+    "voca": "DISTRIBUTE",
+    "type": "v",
+    "meaning": "phân phát"
+  },
+  {
+    "voca": "thick",
+    "type": "adj",
+    "meaning": "dày"
+  },
+  {
+    "voca": "conference",
+    "type": "n",
+    "meaning": "hội thảo"
+  },
+  {
+    "voca": "binder",
+    "type": "n",
+    "meaning": "bìa tài liệu"
+  },
+  {
+    "voca": "grocery",
+    "type": "n",
+    "meaning": "hàng tạp hóa"
+  },
+  {
+    "voca": "performance",
+    "type": "n",
+    "meaning": "buổi biểu diễn"
+  },
+  {
+    "voca": "crowd",
+    "type": "n",
+    "meaning": "đám đông"
+  },
+  {
+    "voca": "cabinet",
+    "type": "n",
+    "meaning": "tủ"
+  },
+  {
+    "voca": "suitcase",
+    "type": "n",
+    "meaning": "va li"
+  },
+  {
+    "voca": "luggage",
+    "type": "n",
+    "meaning": "hành lý"
+  },
+  {
+    "voca": "tunnel",
+    "type": "n",
+    "meaning": "hầm"
+  },
+  {
+    "voca": "renovate",
+    "type": "v",
+    "meaning": "tân trang"
+  },
+  {
+    "voca": "beside",
+    "type": "prep",
+    "meaning": "bên cạnh"
+  },
+  {
+    "voca": "track",
+    "type": "n",
+    "meaning": "đường ray"
+  },
+  {
+    "voca": "case",
+    "type": "n",
+    "meaning": "hộp,vỏ bọc"
+  },
+  {
+    "voca": "counter",
+    "type": "n",
+    "meaning": "quầy"
+  },
+  {
+    "voca": "warehouse",
+    "type": "n",
+    "meaning": "nhà kho"
+  },
+  {
+    "voca": "entrance",
+    "type": "n",
+    "meaning": "cổng vào"
+  },
+  {
+    "voca": "platform",
+    "type": "n",
+    "meaning": "nền tảng"
+  },
+  {
+    "voca": "material",
+    "type": "n",
+    "meaning": "vật liệu"
+  },
+  {
+    "voca": "forklift truck",
+    "type": "n",
+    "meaning": "xe nâng"
+  },
+  {
+    "voca": "spread",
+    "type": "v",
+    "meaning": "trải ra"
+  },
+  {
+    "voca": "dock",
+    "type": "n",
+    "meaning": "vũng tàu đậu"
+  },
+  {
+    "voca": "sweep",
+    "type": "v",
+    "meaning": "quét"
+  },
+  {
+    "voca": "broom",
+    "type": "n",
+    "meaning": "cái chổi"
+  },
+  {
+    "voca": "exchange",
+    "type": "v",
+    "meaning": "đổi"
+  },
+  {
+    "voca": "riverbank",
+    "type": "n",
+    "meaning": "bở sông"
+  },
+  {
+    "voca": "presentation",
+    "type": "n",
+    "meaning": "sự trình bày"
+  },
+  {
+    "voca": "hiker",
+    "type": "n",
+    "meaning": "người đi bộ đường dài"
+  },
+  {
+    "voca": "hill",
+    "type": "n",
+    "meaning": "ngọn đồi"
+  },
+  {
+    "voca": "tent",
+    "type": "n",
+    "meaning": "lều"
+  },
+  {
+    "voca": "assemble",
+    "type": "v",
+    "meaning": "lắp ráp"
+  },
+  {
+    "voca": "towel",
+    "type": "n",
+    "meaning": "khăn"
+  },
+  {
+    "voca": "stadium",
+    "type": "n",
+    "meaning": "sân vận động"
+  },
+  {
+    "voca": "partition",
+    "type": "n",
+    "meaning": "vách ngăn"
+  },
+  {
+    "voca": "grocery",
+    "type": "n",
+    "meaning": "hàng hóa"
+  },
+  {
+    "voca": "microscope",
+    "type": "n",
+    "meaning": "kính hiển vi"
+  },
+  {
+    "voca": "drawer",
+    "type": "n",
+    "meaning": "ngăn kéo"
+  },
+  {
+    "voca": "sculpture",
+    "type": "n",
+    "meaning": "tác phẩm điêu khắc"
+  },
+  {
+    "voca": "overhead",
+    "type": "n",
+    "meaning": "trên đầu"
+  },
+  {
+    "voca": "advertisement",
+    "type": "n",
+    "meaning": "quảng cáo"
+  },
+  {
+    "voca": "archway",
+    "type": "n",
+    "meaning": "mái vòm"
+  },
+  {
+    "voca": "bouquet",
+    "type": "n",
+    "meaning": "bó hoa"
+  },
+  {
+    "voca": "statue",
+    "type": "n",
+    "meaning": "tượng"
+  },
+  {
+    "voca": "monument",
+    "type": "n",
+    "meaning": "đài tưởng niệm"
+  },
+  {
+    "voca": "wipe",
+    "type": "v",
+    "meaning": "lau,chùi"
+  },
+  {
+    "voca": "shore",
+    "type": "n",
+    "meaning": "bờ biển"
+  },
+  {
+    "voca": "lawn",
+    "type": "n",
+    "meaning": "bãi cỏ"
+  },
+  {
+    "voca": "pedestrian",
+    "type": "n",
+    "meaning": "khách đi bộ"
+  },
+  {
+    "voca": "pavement",
+    "type": "n",
+    "meaning": "vỉa hè"
+  },
+  {
+    "voca": "individual",
+    "type": "n",
+    "meaning": "cá nhân"
+  },
+  {
+    "voca": "surround",
+    "type": "v",
+    "meaning": "bao quanh"
+  },
+  {
+    "voca": "laboratory",
+    "type": "n",
+    "meaning": "phòng thí nghiệm"
+  },
+  {
+    "voca": "bush",
+    "type": "n",
+    "meaning": "khóm cây"
+  },
+  {
+    "voca": "stove",
+    "type": "n",
+    "meaning": "cái bếp"
+  },
+  {
+    "voca": "utensil",
+    "type": "n",
+    "meaning": "đồ dùng"
+  },
+  {
+    "voca": "oven",
+    "type": "n",
+    "meaning": "lò nướng"
+  },
+  {
+    "voca": "depart",
+    "type": "v",
+    "meaning": "khởi hành"
+  },
+  {
+    "voca": "sew",
+    "type": "v",
+    "meaning": "may vá"
+  },
+  {
+    "voca": "garment",
+    "type": "n",
+    "meaning": "áo quần"
+  },
+  {
+    "voca": "balcony",
+    "type": "n",
+    "meaning": "ban công"
+  },
+  {
+    "voca": "facility",
+    "type": "n",
+    "meaning": "cơ sở vật chất"
+  },
+  {
+    "voca": "canopy",
+    "type": "n",
+    "meaning": "mái che"
+  },
+  {
+    "voca": "sink",
+    "type": "n",
+    "meaning": "bồn rửa"
+  },
+  {
+    "voca": "sailboat",
+    "type": "n",
+    "meaning": "thuyền buồm"
+  },
+  {
+    "voca": "scarf",
+    "type": "n",
+    "meaning": "khăn quàng cổ"
+  },
+  {
+    "voca": "stepladder",
+    "type": "n",
+    "meaning": "thang bậc"
+  },
+  {
+    "voca": "courtyard",
+    "type": "n",
+    "meaning": "sân"
+  },
+  {
+    "voca": "multiple",
+    "type": "n",
+    "meaning": "nhiều"
+  },
+  {
+    "voca": "decoration",
+    "type": "n",
+    "meaning": "vật trang trí"
+  },
+  {
+    "voca": "scientific",
+    "type": "adj",
+    "meaning": "khoa học"
+  },
+  {
+    "voca": "technician",
+    "type": "n",
+    "meaning": "kĩ thuật viên"
+  },
+  {
+    "voca": "corner",
+    "type": "n",
+    "meaning": "góc nhà"
+  },
+  {
+    "voca": "direct",
+    "type": "adj",
+    "meaning": "trực tiếp"
+  },
+  {
+    "voca": "researcher",
+    "type": "n",
+    "meaning": "nhà nghiên cứu"
+  },
+  {
+    "voca": "pitcher",
+    "type": "n",
+    "meaning": "bình có quai"
+  },
+  {
+    "voca": "trimmer",
+    "type": "n",
+    "meaning": "máy cắt tỉa cây cỏ"
+  },
+  {
+    "voca": "confidential",
+    "type": "adj",
+    "meaning": "bảo mật"
+  },
+  {
+    "voca": "strategies",
+    "type": "n",
+    "meaning": "chiến lược"
+  },
+  {
+    "voca": "consistent",
+    "type": "adj",
+    "meaning": "nhất quán"
+  },
+  {
+    "voca": "advisor",
+    "type": "n",
+    "meaning": "cố vấn"
+  },
+  {
+    "voca": "legal",
+    "type": "adj",
+    "meaning": "hợp pháp"
+  },
+  {
+    "voca": "sidewalk",
+    "type": "n",
+    "meaning": "vỉa hè cho người đi bộ"
+  },
+  {
+    "voca": "supervisor",
+    "type": "n",
+    "meaning": "người giám sát"
+  },
+  {
+    "voca": "proposal",
+    "type": "n",
+    "meaning": "đề xuất"
+  },
+  {
+    "voca": "in person",
+    "type": "",
+    "meaning": "trực tiếp"
+  },
+  {
+    "voca": "innovate",
+    "type": "v",
+    "meaning": "đổi mới"
+  },
+  {
+    "voca": "properly",
+    "type": "adv",
+    "meaning": "phù hợp"
+  },
+  {
+    "voca": "shift",
+    "type": "n",
+    "meaning": "ca làm việc"
+  },
+  {
+    "voca": "processds",
+    "type": "n",
+    "meaning": "tiền thu được"
+  },
+  {
+    "voca": "issue",
+    "type": "n",
+    "meaning": "ấn bản"
+  },
+  {
+    "voca": "satisfy",
+    "type": "v",
+    "meaning": "làm hài lòng"
+  },
+  {
+    "voca": "patient",
+    "type": "n",
+    "meaning": "bệnh nhân"
+  },
+  {
+    "voca": "survey",
+    "type": "n",
+    "meaning": "bản khảo sát"
+  },
+  {
+    "voca": "predict",
+    "type": "v",
+    "meaning": "dự đoán"
+  },
+  {
+    "voca": "mayor",
+    "type": "n",
+    "meaning": "thị trưởng"
+  },
+  {
+    "voca": "leather",
+    "type": "n",
+    "meaning": "da"
+  },
+  {
+    "voca": "scaffolding",
+    "type": "n",
+    "meaning": "giàn giáo"
+  },
+  {
+    "voca": "serve",
+    "type": "v",
+    "meaning": "phục vụ"
+  },
+  {
+    "voca": "lampposts",
+    "type": "n",
+    "meaning": "trụ đèn"
+  },
+  {
+    "voca": "to board a train",
+    "type": "n",
+    "meaning": "lên tàu"
+  },
+  {
+    "voca": "is about to",
+    "type": "",
+    "meaning": "sắp sửa"
+  },
+  {
+    "voca": "scrubbing",
+    "type": "v",
+    "meaning": "chùi"
+  },
+  {
+    "voca": "tidying",
+    "type": "v",
+    "meaning": "dọn dẹp"
+  },
+  {
+    "voca": "brushing",
+    "type": "v",
+    "meaning": "đánh răng"
+  },
+  {
+    "voca": "boarding",
+    "type": "v",
+    "meaning": "lên máy bay"
+  },
+  {
+    "voca": "tire",
+    "type": "n",
+    "meaning": "cái lốp"
+  },
+  {
+    "voca": "delivering a presentation",
+    "type": "",
+    "meaning": "thuyết trình"
+  },
+  {
+    "voca": "manual",
+    "type": "n",
+    "meaning": "sổ tay"
+  },
+  {
+    "voca": "gate",
+    "type": "n",
+    "meaning": "cổng"
+  },
+  {
+    "voca": "van",
+    "type": "n",
+    "meaning": "xe tải"
+  },
+  {
+    "voca": "traffic cones",
+    "type": "n",
+    "meaning": "cọc tiêu giao thông"
+  },
+  {
+    "voca": "rope off",
+    "type": "n",
+    "meaning": "rào chắn"
+  },
+  {
+    "voca": "carpet",
+    "type": "n",
+    "meaning": "thảm"
+  },
+  {
+    "voca": "concentrate",
+    "type": "v",
+    "meaning": "tập trung"
+  },
+  {
+    "voca": "shopkeeper",
+    "type": "n",
+    "meaning": "người bán hàng"
+  },
+  {
+    "voca": "rack",
+    "type": "n",
+    "meaning": "cái giá"
+  },
+  {
+    "voca": "cap",
+    "type": "n",
+    "meaning": "mũ"
+  },
+  {
+    "voca": "weeds",
+    "type": "n",
+    "meaning": "cỏ dại"
+  },
+  {
+    "voca": "pin",
+    "type": "n",
+    "meaning": "đinh"
+  },
+  {
+    "voca": "jewelry",
+    "type": "n",
+    "meaning": "đồ nữ trang"
+  },
+  {
+    "voca": "lecture",
+    "type": "n",
+    "meaning": "thuyết trình"
+  },
+  {
+    "voca": "together",
+    "type": "adv",
+    "meaning": "cùng nhau"
+  },
+  {
+    "voca": "delivery",
+    "type": "n",
+    "meaning": "sự vận chuyển"
+  },
+  {
+    "voca": "sketch",
+    "type": "v",
+    "meaning": "phác họa"
+  },
+  {
+    "voca": "scenery",
+    "type": "n",
+    "meaning": "phong cảnh"
+  },
+  {
+    "voca": "cargo",
+    "type": "n",
+    "meaning": "hàng hóa trên tàu"
+  },
+  {
+    "voca": "tractor",
+    "type": "n",
+    "meaning": "máy kéo"
+  },
+  {
+    "voca": "demolish",
+    "type": "v",
+    "meaning": "phá hủy"
+  },
+  {
+    "voca": "subway",
+    "type": "n",
+    "meaning": "tàu điện ngầm"
+  },
+  {
+    "voca": "conductor",
+    "type": "n",
+    "meaning": "người chỉ huy"
+  },
+  {
+    "voca": "parade",
+    "type": "n",
+    "meaning": "cuộc diễu hành"
+  },
+  {
+    "voca": "distance",
+    "type": "n",
+    "meaning": "khoảng cách"
+  },
+  {
+    "voca": "branch",
+    "type": "n",
+    "meaning": "chi nhánh"
+  },
+  {
+    "voca": "vacation",
+    "type": "n",
+    "meaning": "kỳ nghỉ"
+  },
+  {
+    "voca": "participant",
+    "type": "n",
+    "meaning": "người tham dự"
+  },
+  {
+    "voca": "financial",
+    "type": "adj",
+    "meaning": "tài chính"
+  }
+]

@@ -149,7 +149,7 @@ sew(v):may vá
 garment(n):áo quần
 balcony(n):ban công
 facility(n):cơ sở vật chất
-canopy(n):mái vòm
+canopy(n):mái che
 sink(n):bồn rửa
 sailboat(n):thuyền buồm
 scarf(n):khăn quàng cổ
@@ -169,8 +169,58 @@ strategies(n):chiến lược
 consistent(adj):nhất quán 
 advisor(n):cố vấn
 legal(adj):hợp pháp 
-sidewalk(n):vỉa hè
+sidewalk(n):vỉa hè cho người đi bộ
 supervisor(n):người giám sát
 proposal(n):đề xuất
 in person:trực tiếp
 innovate(v):đổi mới
+properly(adv):phù hợp
+shift(n):ca làm việc
+processds(n):tiền thu được
+issue(n):ấn bản
+satisfy(v):làm hài lòng
+patient(n):bệnh nhân
+survey(n):bản khảo sát
+predict(v):dự đoán
+mayor(n):thị trưởng
+leather(n):da
+scaffolding(n):giàn giáo
+serve(v):phục vụ
+lampposts(n):trụ đèn
+to board a train(n):lên tàu
+is about to :sắp sửa
+scrubbing(v):chùi
+tidying(v):dọn dẹp
+brushing(v):đánh răng
+boarding(v):lên máy bay
+tire(n):cái lốp
+delivering a presentation:thuyết trình
+manual(n):sổ tay
+gate(n):cổng
+van(n):xe tải
+traffic cones(n):cọc tiêu giao thông
+rope off(n):rào chắn
+carpet(n):thảm
+concentrate(v):tập trung
+shopkeeper(n):người bán hàng
+rack(n):cái giá
+cap(n):mũ
+weeds(n):cỏ dại
+pin(n):đinh
+jewelry(n):đồ nữ trang
+lecture(n):thuyết trình
+together(adv):cùng nhau
+delivery(n):sự vận chuyển
+sketch(v):phác họa
+scenery(n):phong cảnh
+cargo(n):hàng hóa trên tàu
+tractor(n):máy kéo
+demolish(v):phá hủy
+subway(n):tàu điện ngầm
+conductor(n):người chỉ huy
+parade(n):cuộc diễu hành
+distance(n):khoảng cách
+branch(n):chi nhánh
+vacation(n):kỳ nghỉ
+participant(n):người tham dự
+financial(adj):tài chính
