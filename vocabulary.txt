@@ -224,3 +224,31 @@ branch(n):chi nhánh
 vacation(n):kỳ nghỉ
 participant(n):người tham dự
 financial(adj):tài chính
+relevant(adj):liên quan
+specify(v):chỉ rõ,định rõ
+freight(n):hàng hóa
+humidity(n):độ ẩm
+climate(n):khí hậu
+metropolitan(adj):thủ đô
+merger(n):sự sát nhập
+recently(adv):gần đây
+obtain(v):có được
+apart(adv):riêng ra,xảy ra
+converge(v):hội tụ
+shampoo(n):dầu gội
+condition(n):tình trạng
+economic(adj):thuộc kinh tế 
+approval(n):sự chấp thuận
+identification(n):sự nhận dạng
+closely(adv):kĩ lưỡng
+describe(v):mô tả
+frequently(adv):thường xuyên
+tape(n):băng dính 
+propped(v):được chống đỡ
+put away:vứt đi
+a bite of : một ít 
+plumbing(n):hệ thống ống nước
+plug(n):phích cắm
+mattress(n):nệm
+tugboat(n):tàu kéo
+sheltering(v):che chở

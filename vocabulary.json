@@ -1128,5 +1128,145 @@
     "voca": "financial",
     "type": "adj",
     "meaning": "tài chính"
+  },
+  {
+    "voca": "relevant",
+    "type": "adj",
+    "meaning": "liên quan"
+  },
+  {
+    "voca": "specify",
+    "type": "v",
+    "meaning": "chỉ rõ,định rõ"
+  },
+  {
+    "voca": "freight",
+    "type": "n",
+    "meaning": "hàng hóa"
+  },
+  {
+    "voca": "humidity",
+    "type": "n",
+    "meaning": "độ ẩm"
+  },
+  {
+    "voca": "climate",
+    "type": "n",
+    "meaning": "khí hậu"
+  },
+  {
+    "voca": "metropolitan",
+    "type": "adj",
+    "meaning": "thủ đô"
+  },
+  {
+    "voca": "merger",
+    "type": "n",
+    "meaning": "sự sát nhập"
+  },
+  {
+    "voca": "recently",
+    "type": "adv",
+    "meaning": "gần đây"
+  },
+  {
+    "voca": "obtain",
+    "type": "v",
+    "meaning": "có được"
+  },
+  {
+    "voca": "apart",
+    "type": "adv",
+    "meaning": "riêng ra,xảy ra"
+  },
+  {
+    "voca": "converge",
+    "type": "v",
+    "meaning": "hội tụ"
+  },
+  {
+    "voca": "shampoo",
+    "type": "n",
+    "meaning": "dầu gội"
+  },
+  {
+    "voca": "condition",
+    "type": "n",
+    "meaning": "tình trạng"
+  },
+  {
+    "voca": "economic",
+    "type": "adj",
+    "meaning": "thuộc kinh tế"
+  },
+  {
+    "voca": "approval",
+    "type": "n",
+    "meaning": "sự chấp thuận"
+  },
+  {
+    "voca": "identification",
+    "type": "n",
+    "meaning": "sự nhận dạng"
+  },
+  {
+    "voca": "closely",
+    "type": "adv",
+    "meaning": "kĩ lưỡng"
+  },
+  {
+    "voca": "describe",
+    "type": "v",
+    "meaning": "mô tả"
+  },
+  {
+    "voca": "frequently",
+    "type": "adv",
+    "meaning": "thường xuyên"
+  },
+  {
+    "voca": "tape",
+    "type": "n",
+    "meaning": "băng dính"
+  },
+  {
+    "voca": "propped",
+    "type": "v",
+    "meaning": "được chống đỡ"
+  },
+  {
+    "voca": "put away",
+    "type": "",
+    "meaning": "vứt đi"
+  },
+  {
+    "voca": "a bite of",
+    "type": "",
+    "meaning": "một ít"
+  },
+  {
+    "voca": "plumbing",
+    "type": "n",
+    "meaning": "hệ thống ống nước"
+  },
+  {
+    "voca": "plug",
+    "type": "n",
+    "meaning": "phích cắm"
+  },
+  {
+    "voca": "mattress",
+    "type": "n",
+    "meaning": "nệm"
+  },
+  {
+    "voca": "tugboat",
+    "type": "n",
+    "meaning": "tàu kéo"
+  },
+  {
+    "voca": "sheltering",
+    "type": "v",
+    "meaning": "che chở"
   }
 ]
