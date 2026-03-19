@@ -252,3 +252,26 @@ plug(n):phích cắm
 mattress(n):nệm
 tugboat(n):tàu kéo
 sheltering(v):che chở
+occupy(v):chiếm chỗ
+curtain(n):rèm
+scatter(v):gieo rắc
+assortment(n):sự phân loại
+admire(v):ngưỡng mộ
+booklet(n):cuốn sách nhỏ
+include(v):bao gồm
+explain(v):giải thích
+consequence(n):hậu quả
+exhibit(v):triển lãm
+handle(v):xử lý
+conveniently(adv):thuận tiện
+suburban(adj):thuộc ngoại ô
+perform(v):thực hiện
+maintenance(n):việc bảo trì
+publish(v):xuất bản
+repeatedly(adv):lặp đi lặp lại
+ongoing(adj):đang diễn ra
+executive(adj):lãnh đạo
+praise(v):ca ngợi
+manner(n):thái độ
+fold(v):gấp
+net(v):cái lưới
