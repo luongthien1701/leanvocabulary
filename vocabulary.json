@@ -1383,5 +1383,140 @@
     "voca": "net",
     "type": "v",
     "meaning": "cái lưới"
+  },
+  {
+    "voca": "hurry",
+    "type": "v",
+    "meaning": "vội vã"
+  },
+  {
+    "voca": "globe",
+    "type": "n",
+    "meaning": "quả cầu"
+  },
+  {
+    "voca": "mask",
+    "type": "n",
+    "meaning": "khẩu trang"
+  },
+  {
+    "voca": "dirt",
+    "type": "n",
+    "meaning": "bẩn"
+  },
+  {
+    "voca": "arrive",
+    "type": "v",
+    "meaning": "đến"
+  },
+  {
+    "voca": "aisle",
+    "type": "n",
+    "meaning": "lối đi giữa"
+  },
+  {
+    "voca": "various",
+    "type": "adj",
+    "meaning": "đa dạng"
+  },
+  {
+    "voca": "plaza",
+    "type": "n",
+    "meaning": "trung tâm mua sắm"
+  },
+  {
+    "voca": "below",
+    "type": "pre",
+    "meaning": "dưới"
+  },
+  {
+    "voca": "operation",
+    "type": "n",
+    "meaning": "sự vận hành"
+  },
+  {
+    "voca": "piece",
+    "type": "n",
+    "meaning": "miếng"
+  },
+  {
+    "voca": "exercise",
+    "type": "n",
+    "meaning": "sự luyện tập"
+  },
+  {
+    "voca": "measure",
+    "type": "n",
+    "meaning": "biện pháp"
+  },
+  {
+    "voca": "appear",
+    "type": "v",
+    "meaning": "xuất hiện"
+  },
+  {
+    "voca": "surface",
+    "type": "n",
+    "meaning": "bề mặt"
+  },
+  {
+    "voca": "shape",
+    "type": "n",
+    "meaning": "cấu trúc"
+  },
+  {
+    "voca": "catch",
+    "type": "V",
+    "meaning": "bắt"
+  },
+  {
+    "voca": "wild",
+    "type": "adj",
+    "meaning": "hoang dã"
+  },
+  {
+    "voca": "roof",
+    "type": "n",
+    "meaning": "mái nhà"
+  },
+  {
+    "voca": "a plate of",
+    "type": "",
+    "meaning": "một đĩa"
+  },
+  {
+    "voca": "soft",
+    "type": "adj",
+    "meaning": "mềm"
+  },
+  {
+    "voca": "iron",
+    "type": "n",
+    "meaning": "ủi,là"
+  },
+  {
+    "voca": "apology",
+    "type": "n",
+    "meaning": "lời xin lỗi"
+  },
+  {
+    "voca": "inconvenience",
+    "type": "n",
+    "meaning": "sự bất tiện"
+  },
+  {
+    "voca": "competitive",
+    "type": "adj",
+    "meaning": "cạnh tranh"
+  },
+  {
+    "voca": "towed",
+    "type": "v",
+    "meaning": "kéo"
+  },
+  {
+    "voca": "plow",
+    "type": "v",
+    "meaning": "cày"
   }
 ]

@@ -275,3 +275,30 @@ praise(v):ca ngợi
 manner(n):thái độ
 fold(v):gấp
 net(v):cái lưới
+hurry(v):vội vã
+globe(n):quả cầu
+mask(n):khẩu trang
+dirt(n):bẩn
+arrive(v):đến
+aisle(n):lối đi giữa
+various(adj):đa dạng
+plaza(n):trung tâm mua sắm
+below(pre):dưới
+operation(n):sự vận hành
+piece(n):miếng
+exercise(n):sự luyện tập
+measure(n):biện pháp
+appear(v):xuất hiện
+surface(n):bề mặt
+shape(n):cấu trúc
+catch(V):bắt
+wild(adj):hoang dã
+roof(n):mái nhà
+a plate of : một đĩa
+soft(adj):mềm
+iron(n):ủi,là
+apology(n):lời xin lỗi
+inconvenience(n):sự bất tiện
+competitive(adj):cạnh tranh
+towed(v):kéo
+plow(v):cày
