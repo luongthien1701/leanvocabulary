@@ -30,24 +30,9 @@
     "meaning": "môi trường sống"
   },
   {
-    "voca": "prepare",
-    "type": "v",
-    "meaning": "chuẩn bị"
-  },
-  {
     "voca": "sneeze",
     "type": "v",
     "meaning": "hắt hơi"
-  },
-  {
-    "voca": "this/that",
-    "type": "",
-    "meaning": "số ít ở gần/xa"
-  },
-  {
-    "voca": "these/those",
-    "type": "",
-    "meaning": "số nhiều ở gần/xa"
   },
   {
     "voca": "cure",
@@ -68,11 +53,6 @@
     "voca": "clainmed",
     "type": "v",
     "meaning": "tuyên bố"
-  },
-  {
-    "voca": "made",
-    "type": "v",
-    "meaning": "đã làm"
   },
   {
     "voca": "barely",
@@ -145,91 +125,6 @@
     "meaning": "sự bày tỏ,sự trình bày"
   },
   {
-    "voca": "escalator",
-    "type": "n",
-    "meaning": "thang cuốn"
-  },
-  {
-    "voca": "wrap",
-    "type": "v",
-    "meaning": "đóng gói"
-  },
-  {
-    "voca": "merchandise",
-    "type": "n",
-    "meaning": "hàng hóa"
-  },
-  {
-    "voca": "briefcase",
-    "type": "n",
-    "meaning": "cặp đựng tài liệu"
-  },
-  {
-    "voca": "vendor",
-    "type": "n",
-    "meaning": "người bán hàng"
-  },
-  {
-    "voca": "reach",
-    "type": "v",
-    "meaning": "với tới"
-  },
-  {
-    "voca": "arrange",
-    "type": "v",
-    "meaning": "sắp xếp"
-  },
-  {
-    "voca": "vase",
-    "type": "n",
-    "meaning": "cái bình,cái lọ"
-  },
-  {
-    "voca": "attach",
-    "type": "v",
-    "meaning": "đính kèm"
-  },
-  {
-    "voca": "bulletin",
-    "type": "n",
-    "meaning": "thông báo"
-  },
-  {
-    "voca": "against",
-    "type": "pre",
-    "meaning": "chống lại,ngược lại"
-  },
-  {
-    "voca": "railing",
-    "type": "n",
-    "meaning": "lan can"
-  },
-  {
-    "voca": "bench",
-    "type": "n",
-    "meaning": "ghế dài"
-  },
-  {
-    "voca": "hang",
-    "type": "v",
-    "meaning": "treo,mắc"
-  },
-  {
-    "voca": "above",
-    "type": "prep",
-    "meaning": "phía trên"
-  },
-  {
-    "voca": "doorway",
-    "type": "n",
-    "meaning": "lối đi ra cửa"
-  },
-  {
-    "voca": "audience",
-    "type": "n",
-    "meaning": "khán giả"
-  },
-  {
     "voca": "across",
     "type": "preo",
     "meaning": "ngang qua"
@@ -260,79 +155,14 @@
     "meaning": "ngắn gọn,xúc tích"
   },
   {
-    "voca": "suspend",
-    "type": "v",
-    "meaning": "tạm hoãn,đình chỉ"
-  },
-  {
-    "voca": "intersection",
-    "type": "n",
-    "meaning": "sự giao lộ"
-  },
-  {
-    "voca": "separate",
-    "type": "v",
-    "meaning": "riêng rẽ"
-  },
-  {
-    "voca": "high-rise",
-    "type": "n",
-    "meaning": "nhà cao tầng"
-  },
-  {
-    "voca": "erect",
-    "type": "v",
-    "meaning": "dựng lên"
-  },
-  {
     "voca": "PARTIALLY",
     "type": "adv",
     "meaning": "khong hoàn chỉnh"
   },
   {
-    "voca": "pile",
-    "type": "n",
-    "meaning": "đống"
-  },
-  {
-    "voca": "fasten",
-    "type": "v",
-    "meaning": "buộc"
-  },
-  {
-    "voca": "vertical",
-    "type": "a",
-    "meaning": "thẳng đứng"
-  },
-  {
-    "voca": "pattern",
-    "type": "n",
-    "meaning": "mẫu,hoa văn"
-  },
-  {
-    "voca": "pipe",
-    "type": "n",
-    "meaning": "óng"
-  },
-  {
     "voca": "attend",
     "type": "v",
     "meaning": "tham dự"
-  },
-  {
-    "voca": "rest",
-    "type": "v",
-    "meaning": "nghỉ ngơi"
-  },
-  {
-    "voca": "barn",
-    "type": "n",
-    "meaning": "chuồng"
-  },
-  {
-    "voca": "fence",
-    "type": "n",
-    "meaning": "hàng rào"
   },
   {
     "voca": "promotion",
@@ -343,16 +173,6 @@
     "voca": "effort",
     "type": "n",
     "meaning": "nổ lực"
-  },
-  {
-    "voca": "furniture",
-    "type": "n",
-    "meaning": "đồ đạc"
-  },
-  {
-    "voca": "pot",
-    "type": "n",
-    "meaning": "cái chậu"
   },
   {
     "voca": "approach",
@@ -425,11 +245,6 @@
     "meaning": "thức uống"
   },
   {
-    "voca": "sentence",
-    "type": "n",
-    "meaning": "câu,mệnh đề"
-  },
-  {
     "voca": "bury",
     "type": "v",
     "meaning": "chôn vùi"
@@ -473,11 +288,6 @@
     "voca": "performance",
     "type": "n",
     "meaning": "buổi biểu diễn"
-  },
-  {
-    "voca": "crowd",
-    "type": "n",
-    "meaning": "đám đông"
   },
   {
     "voca": "cabinet",
@@ -1518,5 +1328,50 @@
     "voca": "plow",
     "type": "v",
     "meaning": "cày"
+  },
+  {
+    "voca": "satisfaction",
+    "type": "n",
+    "meaning": "sự thỏa mãn"
+  },
+  {
+    "voca": "significant",
+    "type": "adj",
+    "meaning": "đáng kể"
+  },
+  {
+    "voca": "gradually",
+    "type": "adv",
+    "meaning": "dần dần"
+  },
+  {
+    "voca": "estimate",
+    "type": "v",
+    "meaning": "ước tính"
+  },
+  {
+    "voca": "originally",
+    "type": "adv",
+    "meaning": "ban đầu"
+  },
+  {
+    "voca": "expect",
+    "type": "v",
+    "meaning": "mong đợi"
+  },
+  {
+    "voca": "condition",
+    "type": "n",
+    "meaning": "điều kiện"
+  },
+  {
+    "voca": "official",
+    "type": "n",
+    "meaning": "công chức"
+  },
+  {
+    "voca": "profit",
+    "type": "n",
+    "meaning": "lợi nhuận"
   }
 ]
