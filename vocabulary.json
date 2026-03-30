@@ -1373,5 +1373,370 @@
     "voca": "profit",
     "type": "n",
     "meaning": "lợi nhuận"
+  },
+  {
+    "voca": "wires",
+    "type": "n",
+    "meaning": "dây kim loại"
+  },
+  {
+    "voca": "napkin",
+    "type": "n",
+    "meaning": "giấy ăn"
+  },
+  {
+    "voca": "attractive",
+    "type": "adj",
+    "meaning": "cuốn hút"
+  },
+  {
+    "voca": "extremely",
+    "type": "adv",
+    "meaning": "cực kì"
+  },
+  {
+    "voca": "conduct",
+    "type": "v",
+    "meaning": "tiến hành"
+  },
+  {
+    "voca": "semester",
+    "type": "n",
+    "meaning": "học kì"
+  },
+  {
+    "voca": "customized",
+    "type": "adj",
+    "meaning": "tối ưu"
+  },
+  {
+    "voca": "manufacture",
+    "type": "v",
+    "meaning": "sản xuất"
+  },
+  {
+    "voca": "ensure",
+    "type": "v",
+    "meaning": "đảm bảo(một điều gì đó xảy ra)"
+  },
+  {
+    "voca": "procedure",
+    "type": "n",
+    "meaning": "thủ tục"
+  },
+  {
+    "voca": "regularly",
+    "type": "adv",
+    "meaning": "thường xuyên"
+  },
+  {
+    "voca": "shipment",
+    "type": "n",
+    "meaning": "chuyến hàng"
+  },
+  {
+    "voca": "century",
+    "type": "n",
+    "meaning": "thế kỉ"
+  },
+  {
+    "voca": "quality",
+    "type": "n",
+    "meaning": "chất lượng"
+  },
+  {
+    "voca": "foreign",
+    "type": "adj",
+    "meaning": "nước ngoài"
+  },
+  {
+    "voca": "wave",
+    "type": "n",
+    "meaning": "sóng"
+  },
+  {
+    "voca": "sunbathe",
+    "type": "v",
+    "meaning": "tắm nắng"
+  },
+  {
+    "voca": "unemployment",
+    "type": "n",
+    "meaning": "sự thất nghiệp"
+  },
+  {
+    "voca": "seagull",
+    "type": "n",
+    "meaning": "hải âu"
+  },
+  {
+    "voca": "horn",
+    "type": "n",
+    "meaning": "kèn"
+  },
+  {
+    "voca": "polish",
+    "type": "v",
+    "meaning": "lau chùi"
+  },
+  {
+    "voca": "file",
+    "type": "v",
+    "meaning": "sắp xếp"
+  },
+  {
+    "voca": "guarantee",
+    "type": "v",
+    "meaning": "đảm bảo(cam kết chắc chắn)"
+  },
+  {
+    "voca": "impressive",
+    "type": "adj",
+    "meaning": "ấn tượng"
+  },
+  {
+    "voca": "license",
+    "type": "n",
+    "meaning": "giấy phép"
+  },
+  {
+    "voca": "relatively",
+    "type": "adv",
+    "meaning": "tương đối"
+  },
+  {
+    "voca": "budget",
+    "type": "n",
+    "meaning": "ngân sách"
+  },
+  {
+    "voca": "assembly",
+    "type": "n",
+    "meaning": "bộ phận lắp ráp"
+  },
+  {
+    "voca": "receipt",
+    "type": "n",
+    "meaning": "biên lai"
+  },
+  {
+    "voca": "reimbursement",
+    "type": "n",
+    "meaning": "sự bồi hoàn"
+  },
+  {
+    "voca": "mission",
+    "type": "n",
+    "meaning": "sứ mệnh"
+  },
+  {
+    "voca": "evaluation",
+    "type": "n",
+    "meaning": "sự đánh giá"
+  },
+  {
+    "voca": "recruit",
+    "type": "v",
+    "meaning": "tuyển dụng"
+  },
+  {
+    "voca": "personnel",
+    "type": "n",
+    "meaning": "nhân sự"
+  },
+  {
+    "voca": "promtptly",
+    "type": "adv",
+    "meaning": "đúng giờ"
+  },
+  {
+    "voca": "assistance",
+    "type": "n",
+    "meaning": "sự hỗ trợ"
+  },
+  {
+    "voca": "investment",
+    "type": "n",
+    "meaning": "sự đầu tư"
+  },
+  {
+    "voca": "depend",
+    "type": "v",
+    "meaning": "phụ thuộc"
+  },
+  {
+    "voca": "prospective",
+    "type": "adj",
+    "meaning": "tiềm năng"
+  },
+  {
+    "voca": "colleague",
+    "type": "n",
+    "meaning": "đồng nghiệp"
+  },
+  {
+    "voca": "criticism",
+    "type": "n",
+    "meaning": "sự phê bình"
+  },
+  {
+    "voca": "expert",
+    "type": "n",
+    "meaning": "chuyên gia"
+  },
+  {
+    "voca": "proper",
+    "type": "adj",
+    "meaning": "thích hợp"
+  },
+  {
+    "voca": "announce",
+    "type": "v",
+    "meaning": "thông báo"
+  },
+  {
+    "voca": "committee",
+    "type": "n",
+    "meaning": "ủy ban"
+  },
+  {
+    "voca": "application",
+    "type": "n",
+    "meaning": "hồ sơ"
+  },
+  {
+    "voca": "hazardous",
+    "type": "adj",
+    "meaning": "nguy hiểm"
+  },
+  {
+    "voca": "resignation",
+    "type": "n",
+    "meaning": "sự từ chức"
+  },
+  {
+    "voca": "brochure",
+    "type": "n",
+    "meaning": "cuốn sách nhỏ"
+  },
+  {
+    "voca": "ceiling",
+    "type": "n",
+    "meaning": "trần nhà"
+  },
+  {
+    "voca": "mounted",
+    "type": "v",
+    "meaning": "gắn"
+  },
+  {
+    "voca": "bracelet",
+    "type": "n",
+    "meaning": "vòng đeo tay"
+  },
+  {
+    "voca": "combing",
+    "type": "v",
+    "meaning": "chải"
+  },
+  {
+    "voca": "tray",
+    "type": "n",
+    "meaning": "cái khay"
+  },
+  {
+    "voca": "apron",
+    "type": "n",
+    "meaning": "tạp dề"
+  },
+  {
+    "voca": "rake",
+    "type": "v",
+    "meaning": "cào"
+  },
+  {
+    "voca": "leaves",
+    "type": "n",
+    "meaning": "lá"
+  },
+  {
+    "voca": "pave",
+    "type": "v",
+    "meaning": "lát"
+  },
+  {
+    "voca": "cord",
+    "type": "n",
+    "meaning": "dây điện"
+  },
+  {
+    "voca": "power outlet",
+    "type": "n",
+    "meaning": "ổ cắm điện"
+  },
+  {
+    "voca": "charge",
+    "type": "n",
+    "meaning": "tiền phí"
+  },
+  {
+    "voca": "contract",
+    "type": "n",
+    "meaning": "hợp đồng"
+  },
+  {
+    "voca": "statement",
+    "type": "n",
+    "meaning": "bản sao kê"
+  },
+  {
+    "voca": "postpone",
+    "type": "v",
+    "meaning": "hoãn lại"
+  },
+  {
+    "voca": "accounting",
+    "type": "n",
+    "meaning": "kế toán"
+  },
+  {
+    "voca": "prefer",
+    "type": "v",
+    "meaning": "thích hơn"
+  },
+  {
+    "voca": "apartment",
+    "type": "n",
+    "meaning": "căn hộ"
+  },
+  {
+    "voca": "loan",
+    "type": "n",
+    "meaning": "sự cho vay"
+  },
+  {
+    "voca": "actually",
+    "type": "adv",
+    "meaning": "thực sự là"
+  },
+  {
+    "voca": "mention",
+    "type": "v",
+    "meaning": "đề cập đến"
+  },
+  {
+    "voca": "banquet",
+    "type": "n",
+    "meaning": "bữa tiệc"
+  },
+  {
+    "voca": "tight",
+    "type": "adj",
+    "meaning": "chật"
+  },
+  {
+    "voca": "lead",
+    "type": "v",
+    "meaning": "chỉ dẫn"
   }
 ]

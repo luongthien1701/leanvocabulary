@@ -273,3 +273,78 @@ expect(v):mong đợi
 condition(n):điều kiện
 official(n):công chức
 profit(n):lợi nhuận
+wires(n):dây kim loại
+napkin(n):giấy ăn
+attractive(adj):cuốn hút
+extremely(adv):cực kì
+conduct(v):tiến hành
+semester(n):học kì
+customized(adj):tối ưu
+manufacture(v):sản xuất
+ensure(v):đảm bảo(một điều gì đó xảy ra)
+procedure(n):thủ tục
+regularly(adv):thường xuyên
+shipment(n):chuyến hàng
+century(n):thế kỉ
+quality(n):chất lượng
+foreign(adj):nước ngoài
+wave(n):sóng
+sunbathe(v):tắm nắng
+unemployment(n):sự thất nghiệp
+seagull(n):hải âu
+horn(n):kèn
+polish(v):lau chùi
+file(v):sắp xếp
+
+guarantee(v):đảm bảo(cam kết chắc chắn)
+impressive(adj):ấn tượng
+license(n):giấy phép
+relatively(adv):tương đối
+budget(n):ngân sách
+assembly(n):bộ phận lắp ráp
+receipt(n):biên lai
+reimbursement(n):sự bồi hoàn
+mission(n):sứ mệnh
+evaluation(n):sự đánh giá
+recruit(v):tuyển dụng
+personnel(n):nhân sự
+promtptly(adv):đúng giờ
+assistance(n):sự hỗ trợ
+investment(n):sự đầu tư
+depend(v):phụ thuộc
+prospective(adj):tiềm năng
+colleague(n):đồng nghiệp
+criticism(n):sự phê bình
+expert(n):chuyên gia
+proper(adj):thích hợp
+announce(v):thông báo
+committee(n):ủy ban
+application(n):hồ sơ
+hazardous(adj):nguy hiểm
+resignation(n):sự từ chức
+brochure(n):cuốn sách nhỏ
+ceiling(n):trần nhà
+mounted(v):gắn
+bracelet(n):vòng đeo tay    
+combing(v):chải
+tray(n):cái khay
+apron(n):tạp dề
+rake(v):cào
+leaves(n):lá
+pave(v):lát
+cord(n):dây điện
+power outlet(n):ổ cắm điện
+
+charge(n):tiền phí
+contract(n):hợp đồng
+statement(n):bản sao kê
+postpone(v):hoãn lại
+accounting(n):kế toán
+prefer(v):thích hơn
+apartment(n):căn hộ
+loan(n):sự cho vay
+actually(adv):thực sự là
+mention(v):đề cập đến
+banquet(n):bữa tiệc
+tight(adj):chật
+lead(v):chỉ dẫn
