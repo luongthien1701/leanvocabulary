@@ -209,5 +209,203 @@
       "exhibition",
       "exposition"
     ]
+  },
+  {
+    "key": "chịu trách nhiệm về",
+    "words": [
+      "be in charge of",
+      "be responsible for",
+      "be accountable for",
+      "take responsibility for"
+    ]
+  },
+  {
+    "key": "ngay lập tức",
+    "words": [
+      "immediately",
+      "right now",
+      "right away",
+      "straightaway",
+      "shortly",
+      "promptly",
+      "instantly"
+    ]
+  },
+  {
+    "key": "ngon",
+    "words": [
+      "tasty",
+      "delicious",
+      "delectable"
+    ]
+  },
+  {
+    "key": "đa dạng",
+    "words": [
+      "a selection of",
+      "a number of",
+      "a variety of",
+      "an array of"
+    ]
+  },
+  {
+    "key": "ngoại trừ",
+    "words": [
+      "except for",
+      "apart for",
+      "aside from",
+      "other than"
+    ]
+  },
+  {
+    "key": "điều chỉnh",
+    "words": [
+      "modify",
+      "adjust",
+      "amond",
+      "revise",
+      "switch",
+      "vary",
+      "alter",
+      "change"
+    ]
+  },
+  {
+    "key": "thi hành",
+    "words": [
+      "implement",
+      "perform",
+      "conduct",
+      "carry out"
+    ]
+  },
+  {
+    "key": "cần thiết",
+    "words": [
+      "esential",
+      "important",
+      "critical",
+      "vital"
+    ]
+  },
+  {
+    "key": "giảm",
+    "words": [
+      "decrease",
+      "decline",
+      "turndown",
+      "reduce"
+    ]
+  },
+  {
+    "key": "doanh thu",
+    "words": [
+      "revenue",
+      "income",
+      "turn over",
+      "earnings"
+    ]
+  },
+  {
+    "key": "nộp",
+    "words": [
+      "submit",
+      "apply for",
+      "hand in",
+      "turn in"
+    ]
+  },
+  {
+    "key": "trì hoãn",
+    "words": [
+      "reschedule",
+      "put off",
+      "delay"
+    ]
+  },
+  {
+    "key": "đáng kể,to lớn",
+    "words": [
+      "dramatically",
+      "significantly",
+      "drastically",
+      "greatly",
+      "considerally",
+      "salistancially",
+      "remarkably",
+      "extensively",
+      "noticeably"
+    ]
+  },
+  {
+    "key": "trách nhiệm,nhiệm vụ",
+    "words": [
+      "charge",
+      "responsibility",
+      "assignment",
+      "obligation"
+    ]
+  },
+  {
+    "key": "sản xuất",
+    "words": [
+      "manufacture",
+      "produce",
+      "make",
+      "fabricate"
+    ]
+  },
+  {
+    "key": "trang phục",
+    "words": [
+      "costume",
+      "apparel",
+      "attire",
+      "garment",
+      "suit",
+      "dress"
+    ]
+  },
+  {
+    "key": "bảng báo giá",
+    "words": [
+      "estiamte",
+      "quote",
+      "quotation"
+    ]
+  },
+  {
+    "key": "bởi vì",
+    "words": [
+      "because of",
+      "due to",
+      "owing to",
+      "in view of",
+      "in light of",
+      "given",
+      "thanks to",
+      "on account of"
+    ]
+  },
+  {
+    "key": "hư hỏng,không hoạt động",
+    "words": [
+      "damage",
+      "out of work",
+      "out of service",
+      "out of order",
+      "malfunction",
+      "acting-up"
+    ]
+  },
+  {
+    "key": "thừa nhận",
+    "words": [
+      "acknowledge",
+      "confirm",
+      "recoginze",
+      "admit",
+      "confess"
+    ]
   }
 ]

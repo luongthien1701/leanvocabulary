@@ -334,6 +334,117 @@ leaves(n):lá
 pave(v):lát
 cord(n):dây điện
 power outlet(n):ổ cắm điện
+ambition(n):tham vọng
+characteristic(n):đặc điểm,tính cách
+potential(adj):có tiềm năng
+share(n):cổ phiếu
+institution(n):viện nghiên cứu
+collaboratively(adv):sự hợp tác
+throughout(pre):suốt,khắp
+drill(n):buổi diễn tập
+occupant(n):người sử dụng
+attendee(n):người tham dự
+productivity(n):năng suất
+forecase(n):sự dự báo
+suitable(adj):phù hợp
+dangerous(adj):nguy hiểm
+medical(n):y tế
+receptionist(n):lễ tân
+patron(n):khách quen
+career(n):sự nghiệp
+commission(n):ủy ban
+willingness(n):sự hài lòng
+fabric(n):vải
+prevention(n):sự ngăn chặn
+establish(v):thành lập
+partnership(n):mối quan hệ
+accommodate(v):thích nghi
+qualified(adj):có năng lực
+elect(v):bầu
+vice(adj):phó
+develop(v):phát triển
+consistently(adv):liên tục
+fulfill(v):đáp ứng
+complicated(adj):phức tạp
+twist(n):chỗ rối
+bulk(n):số lượng lớn
+administrative(adj):thuộc về quản lý
+victim(n):nạn nhân
+slowdown(n):sự chững lại
+author(n):tác giả
+innovative(adj):có tính đổi mới
+sesume(n):sơ yếu lí lịch
+launch(n):khai trương
+period(n):chu kì
+commuter(n):người đi làm
+inventory(n):sự kiểm kê
+enclose(v):đính kèm
+teenager(n):thanh thiếu niên
+steadily(adv):đều đặn
+convention(n):hội nghị
+eligible(adj):thích hợp
+invest(v):đầu tư
+stock(n):cổ phiếu
+degree(n):bằng cấp
+outstanding(adj):nổi bật
+exceptional(adj):đặc biệt
+contribute(v):đóng góp
+periodically(adv):định kì
+preference(n):sự ưu tiên
+delegate(n):đại biểu
+institute(n):viện
+honest(adj):thật thà
+incident(n):việc xô xát
+notice(v):nhận thấy
+demand(n):nhu cầu
+terminate(v):chấm dứt
+mess(n):mớ hỗn độn
+windstorm(n):cơn bão
+behavior(n):hành vi
+revise(v):sửa
+secretary(n):thư kí
+awake(adj):tỉnh táo
+wage(n):lương
+substantially(adv):đáng kể
+failure(n):sự thất bại
+pleasure(n):niềm vui thích
+inform(v):thông báo
+withdraw(v):rút tiền
+via(pre):qua
+expire(v):hết hạn
+extension(n):sự gia hạn
+grant(n):trợ cấp
+appliance(n):thiết bị
+brand(v):quảng bá
+imply(v):ngụ ý
+regard(v):xem như
+widen(v):mở rộng
+misinterpret(v):hiểu nhầm
+emerge(v):nổi lên
+recover(v):phục hồi
+coverage(n):việc đưa tin
+accompany(v):đồng hành
+spot(n):khu đất
+terrible(adj):kinh khủng
+populous(adj):đông dân
+imitation(n):giả
+inappropriate(adj):không phù hợp
+insurance(n):bảo hiểm
+means(n):phương tiện
+instructor(n):người hướng dẫn
+dedication(n):sự cống hiến
+deserve(v):xứng đáng
+personal(adj):cá nhân
+suffer(v):trải qua,chịu đựng
+proceed(v):tiếp tục
+suite(n):dãy phòng
+eventually(adv):cuối cùng
+divorce(v):ly dị
+anxiety(n):mối lo lắng
+lounge(n):phòng chờ
+destination(n):đích đến
+representative(n):người đại diện
+investigator(n):điều tra viên
 
 charge(n):tiền phí
 contract(n):hợp đồng
@@ -348,3 +459,105 @@ mention(v):đề cập đến
 banquet(n):bữa tiệc
 tight(adj):chật
 lead(v):chỉ dẫn
+necklace(n):vòng cổ
+
+
+progress(n):sự tiến triển
+consider(v):cân nhắc,xem xét
+decide(v):quyết định
+vacancy(n):chỗ trống
+speech(n):bài phát biểu
+decline(v):giảm
+stay(v):ở lại
+improve(v):cải thiện
+approve(v):chấp thuận
+dozen(n):một tá
+sweater(n):áo len
+newsletter(n):bản tin
+seminar(n):hội thảo
+appointment(n):cuộc hẹn,sự bổ nhiệm
+retire(v):nghỉ hưu
+
+retreat(n):buổi tụ họp
+corporate(adj):thuộc công ty
+cafeteria(n):quán ăn tự phục vụ
+exhibition(n):sự triển lãm
+property(n):tài sản
+venue(n):nơi gặp mặt
+
+payroll(n):bảng lương
+occur(v):xảy ra
+professional(n):người chuyên nghiệp
+modification(n):sự điều chỉnh
+architectural(adj):thuộc kiến trúc
+oversee(v):giám sát
+orphanage(n):trại trẻ mồ côi
+honor(v):vinh danh
+resident(n):cư dân
+essential(adj):cần thiết
+compensation(n):sự bồi thường
+flowchart(n):sơ đồ
+designate(v):chỉ định
+affect(v):ảnh hưởng
+consumption(n):sự tiêu thụ
+stock(n):hàng trong kho
+usual(adj):bình thường
+compete(v):cạnh tranh
+figure(n):số liệu
+consult(v):tham khảo ý kiến
+borrow(v):mượn
+compile(v):thu thập tài liệu
+asignment(n):sự phân công
+
+avenue(n):đại lộ
+press release(n):thông cáo báo chí
+brochure(n):tờ quảng cáo
+stuck(adj):mắc kẹt
+whole(adj):đầy đủ
+manage(v):xoay sở
+complex(n):khu phức hợp
+realize(v):nhận ra
+orientation(n):sự định hướng
+postal(adj):thuộc bưu điện
+
+former(adj):trước đây
+domestic(adj):nội địa
+terminal(n):nhà ga
+retail(n):sự bán lẻ
+tile(n):gạch lát sàn
+wise(adj):thông minh
+enthusiastic(adj):hăng hái,nhiệt tình
+alignment(n):sự căn chỉnh
+brake(n):thắng phanh
+entertainment(n):giải trí
+council(n):hội đồng
+authority(n):sự ủy quyền
+emission(n):khí thải
+tailor(n):thợ may
+custom-made(adj):tùy chỉnh
+prove(v):chứng minh
+lay(v):đặt,bố trí
+probably(adv):hầu như chắc chắn
+
+handheld(adj):cầm tay
+annual(adj):hàng năm
+back order(n):đơn hàng hết hàng
+severely(adv):nghiêm trọng
+almond(n):hạnh nhân
+college(n):trường cao đẳng
+asset(n):tài sản
+campaign(n):chiến dịch
+sign(n):biển hàng
+extra(adj):thêm,phụ
+instead(adv):thay vào đó
+surprise(v):ngạc nhiên
+turn(n):lượt,phiên
+closet(n):tủ đựng
+remodel(v):tu sửa
+librarian(n):cán bộ thư viện
+agenda(n):chương trình nghị sự
+finalize(v):hoàn thiện
+badge(n):thẻ,phù hiệu
+procedure(n):thủ tục
+negotiation(n):đàm phán
+association(n):hiệp hội

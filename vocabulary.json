@@ -1675,6 +1675,561 @@
     "meaning": "ổ cắm điện"
   },
   {
+    "voca": "ambition",
+    "type": "n",
+    "meaning": "tham vọng"
+  },
+  {
+    "voca": "characteristic",
+    "type": "n",
+    "meaning": "đặc điểm,tính cách"
+  },
+  {
+    "voca": "potential",
+    "type": "adj",
+    "meaning": "có tiềm năng"
+  },
+  {
+    "voca": "share",
+    "type": "n",
+    "meaning": "cổ phiếu"
+  },
+  {
+    "voca": "institution",
+    "type": "n",
+    "meaning": "viện nghiên cứu"
+  },
+  {
+    "voca": "collaboratively",
+    "type": "adv",
+    "meaning": "sự hợp tác"
+  },
+  {
+    "voca": "throughout",
+    "type": "pre",
+    "meaning": "suốt,khắp"
+  },
+  {
+    "voca": "drill",
+    "type": "n",
+    "meaning": "buổi diễn tập"
+  },
+  {
+    "voca": "occupant",
+    "type": "n",
+    "meaning": "người sử dụng"
+  },
+  {
+    "voca": "attendee",
+    "type": "n",
+    "meaning": "người tham dự"
+  },
+  {
+    "voca": "productivity",
+    "type": "n",
+    "meaning": "năng suất"
+  },
+  {
+    "voca": "forecase",
+    "type": "n",
+    "meaning": "sự dự báo"
+  },
+  {
+    "voca": "suitable",
+    "type": "adj",
+    "meaning": "phù hợp"
+  },
+  {
+    "voca": "dangerous",
+    "type": "adj",
+    "meaning": "nguy hiểm"
+  },
+  {
+    "voca": "medical",
+    "type": "n",
+    "meaning": "y tế"
+  },
+  {
+    "voca": "receptionist",
+    "type": "n",
+    "meaning": "lễ tân"
+  },
+  {
+    "voca": "patron",
+    "type": "n",
+    "meaning": "khách quen"
+  },
+  {
+    "voca": "career",
+    "type": "n",
+    "meaning": "sự nghiệp"
+  },
+  {
+    "voca": "commission",
+    "type": "n",
+    "meaning": "ủy ban"
+  },
+  {
+    "voca": "willingness",
+    "type": "n",
+    "meaning": "sự hài lòng"
+  },
+  {
+    "voca": "fabric",
+    "type": "n",
+    "meaning": "vải"
+  },
+  {
+    "voca": "prevention",
+    "type": "n",
+    "meaning": "sự ngăn chặn"
+  },
+  {
+    "voca": "establish",
+    "type": "v",
+    "meaning": "thành lập"
+  },
+  {
+    "voca": "partnership",
+    "type": "n",
+    "meaning": "mối quan hệ"
+  },
+  {
+    "voca": "accommodate",
+    "type": "v",
+    "meaning": "thích nghi"
+  },
+  {
+    "voca": "qualified",
+    "type": "adj",
+    "meaning": "có năng lực"
+  },
+  {
+    "voca": "elect",
+    "type": "v",
+    "meaning": "bầu"
+  },
+  {
+    "voca": "vice",
+    "type": "adj",
+    "meaning": "phó"
+  },
+  {
+    "voca": "develop",
+    "type": "v",
+    "meaning": "phát triển"
+  },
+  {
+    "voca": "consistently",
+    "type": "adv",
+    "meaning": "liên tục"
+  },
+  {
+    "voca": "fulfill",
+    "type": "v",
+    "meaning": "đáp ứng"
+  },
+  {
+    "voca": "complicated",
+    "type": "adj",
+    "meaning": "phức tạp"
+  },
+  {
+    "voca": "twist",
+    "type": "n",
+    "meaning": "chỗ rối"
+  },
+  {
+    "voca": "bulk",
+    "type": "n",
+    "meaning": "số lượng lớn"
+  },
+  {
+    "voca": "administrative",
+    "type": "adj",
+    "meaning": "thuộc về quản lý"
+  },
+  {
+    "voca": "victim",
+    "type": "n",
+    "meaning": "nạn nhân"
+  },
+  {
+    "voca": "slowdown",
+    "type": "n",
+    "meaning": "sự chững lại"
+  },
+  {
+    "voca": "author",
+    "type": "n",
+    "meaning": "tác giả"
+  },
+  {
+    "voca": "innovative",
+    "type": "adj",
+    "meaning": "có tính đổi mới"
+  },
+  {
+    "voca": "sesume",
+    "type": "n",
+    "meaning": "sơ yếu lí lịch"
+  },
+  {
+    "voca": "launch",
+    "type": "n",
+    "meaning": "khai trương"
+  },
+  {
+    "voca": "period",
+    "type": "n",
+    "meaning": "chu kì"
+  },
+  {
+    "voca": "commuter",
+    "type": "n",
+    "meaning": "người đi làm"
+  },
+  {
+    "voca": "inventory",
+    "type": "n",
+    "meaning": "sự kiểm kê"
+  },
+  {
+    "voca": "enclose",
+    "type": "v",
+    "meaning": "đính kèm"
+  },
+  {
+    "voca": "teenager",
+    "type": "n",
+    "meaning": "thanh thiếu niên"
+  },
+  {
+    "voca": "steadily",
+    "type": "adv",
+    "meaning": "đều đặn"
+  },
+  {
+    "voca": "convention",
+    "type": "n",
+    "meaning": "hội nghị"
+  },
+  {
+    "voca": "eligible",
+    "type": "adj",
+    "meaning": "thích hợp"
+  },
+  {
+    "voca": "invest",
+    "type": "v",
+    "meaning": "đầu tư"
+  },
+  {
+    "voca": "stock",
+    "type": "n",
+    "meaning": "cổ phiếu"
+  },
+  {
+    "voca": "degree",
+    "type": "n",
+    "meaning": "bằng cấp"
+  },
+  {
+    "voca": "outstanding",
+    "type": "adj",
+    "meaning": "nổi bật"
+  },
+  {
+    "voca": "exceptional",
+    "type": "adj",
+    "meaning": "đặc biệt"
+  },
+  {
+    "voca": "contribute",
+    "type": "v",
+    "meaning": "đóng góp"
+  },
+  {
+    "voca": "periodically",
+    "type": "adv",
+    "meaning": "định kì"
+  },
+  {
+    "voca": "preference",
+    "type": "n",
+    "meaning": "sự ưu tiên"
+  },
+  {
+    "voca": "delegate",
+    "type": "n",
+    "meaning": "đại biểu"
+  },
+  {
+    "voca": "institute",
+    "type": "n",
+    "meaning": "viện"
+  },
+  {
+    "voca": "honest",
+    "type": "adj",
+    "meaning": "thật thà"
+  },
+  {
+    "voca": "incident",
+    "type": "n",
+    "meaning": "việc xô xát"
+  },
+  {
+    "voca": "notice",
+    "type": "v",
+    "meaning": "nhận thấy"
+  },
+  {
+    "voca": "demand",
+    "type": "n",
+    "meaning": "nhu cầu"
+  },
+  {
+    "voca": "terminate",
+    "type": "v",
+    "meaning": "chấm dứt"
+  },
+  {
+    "voca": "mess",
+    "type": "n",
+    "meaning": "mớ hỗn độn"
+  },
+  {
+    "voca": "windstorm",
+    "type": "n",
+    "meaning": "cơn bão"
+  },
+  {
+    "voca": "behavior",
+    "type": "n",
+    "meaning": "hành vi"
+  },
+  {
+    "voca": "revise",
+    "type": "v",
+    "meaning": "sửa"
+  },
+  {
+    "voca": "secretary",
+    "type": "n",
+    "meaning": "thư kí"
+  },
+  {
+    "voca": "awake",
+    "type": "adj",
+    "meaning": "tỉnh táo"
+  },
+  {
+    "voca": "wage",
+    "type": "n",
+    "meaning": "lương"
+  },
+  {
+    "voca": "substantially",
+    "type": "adv",
+    "meaning": "đáng kể"
+  },
+  {
+    "voca": "failure",
+    "type": "n",
+    "meaning": "sự thất bại"
+  },
+  {
+    "voca": "pleasure",
+    "type": "n",
+    "meaning": "niềm vui thích"
+  },
+  {
+    "voca": "inform",
+    "type": "v",
+    "meaning": "thông báo"
+  },
+  {
+    "voca": "withdraw",
+    "type": "v",
+    "meaning": "rút tiền"
+  },
+  {
+    "voca": "via",
+    "type": "pre",
+    "meaning": "qua"
+  },
+  {
+    "voca": "expire",
+    "type": "v",
+    "meaning": "hết hạn"
+  },
+  {
+    "voca": "extension",
+    "type": "n",
+    "meaning": "sự gia hạn"
+  },
+  {
+    "voca": "grant",
+    "type": "n",
+    "meaning": "trợ cấp"
+  },
+  {
+    "voca": "appliance",
+    "type": "n",
+    "meaning": "thiết bị"
+  },
+  {
+    "voca": "brand",
+    "type": "v",
+    "meaning": "quảng bá"
+  },
+  {
+    "voca": "imply",
+    "type": "v",
+    "meaning": "ngụ ý"
+  },
+  {
+    "voca": "regard",
+    "type": "v",
+    "meaning": "xem như"
+  },
+  {
+    "voca": "widen",
+    "type": "v",
+    "meaning": "mở rộng"
+  },
+  {
+    "voca": "misinterpret",
+    "type": "v",
+    "meaning": "hiểu nhầm"
+  },
+  {
+    "voca": "emerge",
+    "type": "v",
+    "meaning": "nổi lên"
+  },
+  {
+    "voca": "recover",
+    "type": "v",
+    "meaning": "phục hồi"
+  },
+  {
+    "voca": "coverage",
+    "type": "n",
+    "meaning": "việc đưa tin"
+  },
+  {
+    "voca": "accompany",
+    "type": "v",
+    "meaning": "đồng hành"
+  },
+  {
+    "voca": "spot",
+    "type": "n",
+    "meaning": "khu đất"
+  },
+  {
+    "voca": "terrible",
+    "type": "adj",
+    "meaning": "kinh khủng"
+  },
+  {
+    "voca": "populous",
+    "type": "adj",
+    "meaning": "đông dân"
+  },
+  {
+    "voca": "imitation",
+    "type": "n",
+    "meaning": "giả"
+  },
+  {
+    "voca": "inappropriate",
+    "type": "adj",
+    "meaning": "không phù hợp"
+  },
+  {
+    "voca": "insurance",
+    "type": "n",
+    "meaning": "bảo hiểm"
+  },
+  {
+    "voca": "means",
+    "type": "n",
+    "meaning": "phương tiện"
+  },
+  {
+    "voca": "instructor",
+    "type": "n",
+    "meaning": "người hướng dẫn"
+  },
+  {
+    "voca": "dedication",
+    "type": "n",
+    "meaning": "sự cống hiến"
+  },
+  {
+    "voca": "deserve",
+    "type": "v",
+    "meaning": "xứng đáng"
+  },
+  {
+    "voca": "personal",
+    "type": "adj",
+    "meaning": "cá nhân"
+  },
+  {
+    "voca": "suffer",
+    "type": "v",
+    "meaning": "trải qua,chịu đựng"
+  },
+  {
+    "voca": "proceed",
+    "type": "v",
+    "meaning": "tiếp tục"
+  },
+  {
+    "voca": "suite",
+    "type": "n",
+    "meaning": "dãy phòng"
+  },
+  {
+    "voca": "eventually",
+    "type": "adv",
+    "meaning": "cuối cùng"
+  },
+  {
+    "voca": "divorce",
+    "type": "v",
+    "meaning": "ly dị"
+  },
+  {
+    "voca": "anxiety",
+    "type": "n",
+    "meaning": "mối lo lắng"
+  },
+  {
+    "voca": "lounge",
+    "type": "n",
+    "meaning": "phòng chờ"
+  },
+  {
+    "voca": "destination",
+    "type": "n",
+    "meaning": "đích đến"
+  },
+  {
+    "voca": "representative",
+    "type": "n",
+    "meaning": "người đại diện"
+  },
+  {
+    "voca": "investigator",
+    "type": "n",
+    "meaning": "điều tra viên"
+  },
+  {
     "voca": "charge",
     "type": "n",
     "meaning": "tiền phí"
@@ -1738,5 +2293,480 @@
     "voca": "lead",
     "type": "v",
     "meaning": "chỉ dẫn"
+  },
+  {
+    "voca": "necklace",
+    "type": "n",
+    "meaning": "vòng cổ"
+  },
+  {
+    "voca": "progress",
+    "type": "n",
+    "meaning": "sự tiến triển"
+  },
+  {
+    "voca": "consider",
+    "type": "v",
+    "meaning": "cân nhắc,xem xét"
+  },
+  {
+    "voca": "decide",
+    "type": "v",
+    "meaning": "quyết định"
+  },
+  {
+    "voca": "vacancy",
+    "type": "n",
+    "meaning": "chỗ trống"
+  },
+  {
+    "voca": "speech",
+    "type": "n",
+    "meaning": "bài phát biểu"
+  },
+  {
+    "voca": "decline",
+    "type": "v",
+    "meaning": "giảm"
+  },
+  {
+    "voca": "stay",
+    "type": "v",
+    "meaning": "ở lại"
+  },
+  {
+    "voca": "improve",
+    "type": "v",
+    "meaning": "cải thiện"
+  },
+  {
+    "voca": "approve",
+    "type": "v",
+    "meaning": "chấp thuận"
+  },
+  {
+    "voca": "dozen",
+    "type": "n",
+    "meaning": "một tá"
+  },
+  {
+    "voca": "sweater",
+    "type": "n",
+    "meaning": "áo len"
+  },
+  {
+    "voca": "newsletter",
+    "type": "n",
+    "meaning": "bản tin"
+  },
+  {
+    "voca": "seminar",
+    "type": "n",
+    "meaning": "hội thảo"
+  },
+  {
+    "voca": "appointment",
+    "type": "n",
+    "meaning": "cuộc hẹn,sự bổ nhiệm"
+  },
+  {
+    "voca": "retire",
+    "type": "v",
+    "meaning": "nghỉ hưu"
+  },
+  {
+    "voca": "retreat",
+    "type": "n",
+    "meaning": "buổi tụ họp"
+  },
+  {
+    "voca": "corporate",
+    "type": "adj",
+    "meaning": "thuộc công ty"
+  },
+  {
+    "voca": "cafeteria",
+    "type": "n",
+    "meaning": "quán ăn tự phục vụ"
+  },
+  {
+    "voca": "exhibition",
+    "type": "n",
+    "meaning": "sự triển lãm"
+  },
+  {
+    "voca": "property",
+    "type": "n",
+    "meaning": "tài sản"
+  },
+  {
+    "voca": "venue",
+    "type": "n",
+    "meaning": "nơi gặp mặt"
+  },
+  {
+    "voca": "payroll",
+    "type": "n",
+    "meaning": "bảng lương"
+  },
+  {
+    "voca": "occur",
+    "type": "v",
+    "meaning": "xảy ra"
+  },
+  {
+    "voca": "professional",
+    "type": "n",
+    "meaning": "người chuyên nghiệp"
+  },
+  {
+    "voca": "modification",
+    "type": "n",
+    "meaning": "sự điều chỉnh"
+  },
+  {
+    "voca": "architectural",
+    "type": "adj",
+    "meaning": "thuộc kiến trúc"
+  },
+  {
+    "voca": "oversee",
+    "type": "v",
+    "meaning": "giám sát"
+  },
+  {
+    "voca": "orphanage",
+    "type": "n",
+    "meaning": "trại trẻ mồ côi"
+  },
+  {
+    "voca": "honor",
+    "type": "v",
+    "meaning": "vinh danh"
+  },
+  {
+    "voca": "resident",
+    "type": "n",
+    "meaning": "cư dân"
+  },
+  {
+    "voca": "essential",
+    "type": "adj",
+    "meaning": "cần thiết"
+  },
+  {
+    "voca": "compensation",
+    "type": "n",
+    "meaning": "sự bồi thường"
+  },
+  {
+    "voca": "flowchart",
+    "type": "n",
+    "meaning": "sơ đồ"
+  },
+  {
+    "voca": "designate",
+    "type": "v",
+    "meaning": "chỉ định"
+  },
+  {
+    "voca": "affect",
+    "type": "v",
+    "meaning": "ảnh hưởng"
+  },
+  {
+    "voca": "consumption",
+    "type": "n",
+    "meaning": "sự tiêu thụ"
+  },
+  {
+    "voca": "stock",
+    "type": "n",
+    "meaning": "hàng trong kho"
+  },
+  {
+    "voca": "usual",
+    "type": "adj",
+    "meaning": "bình thường"
+  },
+  {
+    "voca": "compete",
+    "type": "v",
+    "meaning": "cạnh tranh"
+  },
+  {
+    "voca": "figure",
+    "type": "n",
+    "meaning": "số liệu"
+  },
+  {
+    "voca": "consult",
+    "type": "v",
+    "meaning": "tham khảo ý kiến"
+  },
+  {
+    "voca": "borrow",
+    "type": "v",
+    "meaning": "mượn"
+  },
+  {
+    "voca": "compile",
+    "type": "v",
+    "meaning": "thu thập tài liệu"
+  },
+  {
+    "voca": "asignment",
+    "type": "n",
+    "meaning": "sự phân công"
+  },
+  {
+    "voca": "avenue",
+    "type": "n",
+    "meaning": "đại lộ"
+  },
+  {
+    "voca": "press release",
+    "type": "n",
+    "meaning": "thông cáo báo chí"
+  },
+  {
+    "voca": "brochure",
+    "type": "n",
+    "meaning": "tờ quảng cáo"
+  },
+  {
+    "voca": "stuck",
+    "type": "adj",
+    "meaning": "mắc kẹt"
+  },
+  {
+    "voca": "whole",
+    "type": "adj",
+    "meaning": "đầy đủ"
+  },
+  {
+    "voca": "manage",
+    "type": "v",
+    "meaning": "xoay sở"
+  },
+  {
+    "voca": "complex",
+    "type": "n",
+    "meaning": "khu phức hợp"
+  },
+  {
+    "voca": "realize",
+    "type": "v",
+    "meaning": "nhận ra"
+  },
+  {
+    "voca": "orientation",
+    "type": "n",
+    "meaning": "sự định hướng"
+  },
+  {
+    "voca": "postal",
+    "type": "adj",
+    "meaning": "thuộc bưu điện"
+  },
+  {
+    "voca": "former",
+    "type": "adj",
+    "meaning": "trước đây"
+  },
+  {
+    "voca": "domestic",
+    "type": "adj",
+    "meaning": "nội địa"
+  },
+  {
+    "voca": "terminal",
+    "type": "n",
+    "meaning": "nhà ga"
+  },
+  {
+    "voca": "retail",
+    "type": "n",
+    "meaning": "sự bán lẻ"
+  },
+  {
+    "voca": "tile",
+    "type": "n",
+    "meaning": "gạch lát sàn"
+  },
+  {
+    "voca": "wise",
+    "type": "adj",
+    "meaning": "thông minh"
+  },
+  {
+    "voca": "enthusiastic",
+    "type": "adj",
+    "meaning": "hăng hái,nhiệt tình"
+  },
+  {
+    "voca": "alignment",
+    "type": "n",
+    "meaning": "sự căn chỉnh"
+  },
+  {
+    "voca": "brake",
+    "type": "n",
+    "meaning": "thắng phanh"
+  },
+  {
+    "voca": "entertainment",
+    "type": "n",
+    "meaning": "giải trí"
+  },
+  {
+    "voca": "council",
+    "type": "n",
+    "meaning": "hội đồng"
+  },
+  {
+    "voca": "authority",
+    "type": "n",
+    "meaning": "sự ủy quyền"
+  },
+  {
+    "voca": "emission",
+    "type": "n",
+    "meaning": "khí thải"
+  },
+  {
+    "voca": "tailor",
+    "type": "n",
+    "meaning": "thợ may"
+  },
+  {
+    "voca": "custom-made",
+    "type": "adj",
+    "meaning": "tùy chỉnh"
+  },
+  {
+    "voca": "prove",
+    "type": "v",
+    "meaning": "chứng minh"
+  },
+  {
+    "voca": "lay",
+    "type": "v",
+    "meaning": "đặt,bố trí"
+  },
+  {
+    "voca": "probably",
+    "type": "adv",
+    "meaning": "hầu như chắc chắn"
+  },
+  {
+    "voca": "handheld",
+    "type": "adj",
+    "meaning": "cầm tay"
+  },
+  {
+    "voca": "annual",
+    "type": "adj",
+    "meaning": "hàng năm"
+  },
+  {
+    "voca": "back order",
+    "type": "n",
+    "meaning": "đơn hàng hết hàng"
+  },
+  {
+    "voca": "severely",
+    "type": "adv",
+    "meaning": "nghiêm trọng"
+  },
+  {
+    "voca": "almond",
+    "type": "n",
+    "meaning": "hạnh nhân"
+  },
+  {
+    "voca": "college",
+    "type": "n",
+    "meaning": "trường cao đẳng"
+  },
+  {
+    "voca": "asset",
+    "type": "n",
+    "meaning": "tài sản"
+  },
+  {
+    "voca": "campaign",
+    "type": "n",
+    "meaning": "chiến dịch"
+  },
+  {
+    "voca": "sign",
+    "type": "n",
+    "meaning": "biển hàng"
+  },
+  {
+    "voca": "extra",
+    "type": "adj",
+    "meaning": "thêm,phụ"
+  },
+  {
+    "voca": "instead",
+    "type": "adv",
+    "meaning": "thay vào đó"
+  },
+  {
+    "voca": "surprise",
+    "type": "v",
+    "meaning": "ngạc nhiên"
+  },
+  {
+    "voca": "turn",
+    "type": "n",
+    "meaning": "lượt,phiên"
+  },
+  {
+    "voca": "closet",
+    "type": "n",
+    "meaning": "tủ đựng"
+  },
+  {
+    "voca": "remodel",
+    "type": "v",
+    "meaning": "tu sửa"
+  },
+  {
+    "voca": "librarian",
+    "type": "n",
+    "meaning": "cán bộ thư viện"
+  },
+  {
+    "voca": "agenda",
+    "type": "n",
+    "meaning": "chương trình nghị sự"
+  },
+  {
+    "voca": "finalize",
+    "type": "v",
+    "meaning": "hoàn thiện"
+  },
+  {
+    "voca": "badge",
+    "type": "n",
+    "meaning": "thẻ,phù hiệu"
+  },
+  {
+    "voca": "procedure",
+    "type": "n",
+    "meaning": "thủ tục"
+  },
+  {
+    "voca": "negotiation",
+    "type": "n",
+    "meaning": "đàm phán"
+  },
+  {
+    "voca": "association",
+    "type": "n",
+    "meaning": "hiệp hội"
   }
 ]
